@@ -1,0 +1,3063 @@
+{
+  "Sheet 1": [
+    {
+      "state": "Alabama",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 37786,
+      "sixty-five-and-over": 24949,
+      "grand-total": 62735
+    },
+    {
+      "state": "Alabama",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 44665,
+      "sixty-five-and-over": 24184,
+      "grand-total": 68849
+    },
+    {
+      "state": "Alabama",
+      "congressional-district": "Congressional District 3",
+      "under-sixty-five": 38584,
+      "sixty-five-and-over": 21681,
+      "grand-total": 60265
+    },
+    {
+      "state": "Alabama",
+      "congressional-district": "Congressional District 4",
+      "under-sixty-five": 32592,
+      "sixty-five-and-over": 22961,
+      "grand-total": 55552
+    },
+    {
+      "state": "Alabama",
+      "congressional-district": "Congressional District 5",
+      "under-sixty-five": 44876,
+      "sixty-five-and-over": 25796,
+      "grand-total": 70672
+    },
+    {
+      "state": "Alabama",
+      "congressional-district": "Congressional District 6",
+      "under-sixty-five": 35021,
+      "sixty-five-and-over": 25679,
+      "grand-total": 60700
+    },
+    {
+      "state": "Alabama",
+      "congressional-district": "Congressional District 7",
+      "under-sixty-five": 30592,
+      "sixty-five-and-over": 14648,
+      "grand-total": 45240
+    },
+    {
+      "state": "Alaska",
+      "congressional-district": "Congressional District (at Large)",
+      "under-sixty-five": 58620,
+      "sixty-five-and-over": 15389,
+      "grand-total": 74010
+    },
+    {
+      "state": "Arizona",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 41953,
+      "sixty-five-and-over": 30054,
+      "grand-total": 72007
+    },
+    {
+      "state": "Arizona",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 56795,
+      "sixty-five-and-over": 48742,
+      "grand-total": 105537
+    },
+    {
+      "state": "Arizona",
+      "congressional-district": "Congressional District 3",
+      "under-sixty-five": 33384,
+      "sixty-five-and-over": 20465,
+      "grand-total": 53849
+    },
+    {
+      "state": "Arizona",
+      "congressional-district": "Congressional District 4",
+      "under-sixty-five": 20365,
+      "sixty-five-and-over": 8678,
+      "grand-total": 29043
+    },
+    {
+      "state": "Arizona",
+      "congressional-district": "Congressional District 5",
+      "under-sixty-five": 28657,
+      "sixty-five-and-over": 20152,
+      "grand-total": 48809
+    },
+    {
+      "state": "Arizona",
+      "congressional-district": "Congressional District 6",
+      "under-sixty-five": 47760,
+      "sixty-five-and-over": 32629,
+      "grand-total": 80389
+    },
+    {
+      "state": "Arizona",
+      "congressional-district": "Congressional District 7",
+      "under-sixty-five": 37321,
+      "sixty-five-and-over": 22206,
+      "grand-total": 59527
+    },
+    {
+      "state": "Arizona",
+      "congressional-district": "Congressional District 8",
+      "under-sixty-five": 54062,
+      "sixty-five-and-over": 37897,
+      "grand-total": 91959
+    },
+    {
+      "state": "Arkansas",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 36465,
+      "sixty-five-and-over": 24929,
+      "grand-total": 61394
+    },
+    {
+      "state": "Arkansas",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 42865,
+      "sixty-five-and-over": 23985,
+      "grand-total": 66850
+    },
+    {
+      "state": "Arkansas",
+      "congressional-district": "Congressional District 3",
+      "under-sixty-five": 41547,
+      "sixty-five-and-over": 27421,
+      "grand-total": 68968
+    },
+    {
+      "state": "Arkansas",
+      "congressional-district": "Congressional District 4",
+      "under-sixty-five": 34929,
+      "sixty-five-and-over": 24524,
+      "grand-total": 59453
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 29365,
+      "sixty-five-and-over": 22521,
+      "grand-total": 51886
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 35438,
+      "sixty-five-and-over": 25829,
+      "grand-total": 61268
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 3",
+      "under-sixty-five": 38127,
+      "sixty-five-and-over": 26173,
+      "grand-total": 64299
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 4",
+      "under-sixty-five": 40529,
+      "sixty-five-and-over": 29880,
+      "grand-total": 70409
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 5",
+      "under-sixty-five": 26021,
+      "sixty-five-and-over": 16799,
+      "grand-total": 42821
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 6",
+      "under-sixty-five": 21619,
+      "sixty-five-and-over": 19330,
+      "grand-total": 40950
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 7",
+      "under-sixty-five": 26938,
+      "sixty-five-and-over": 15729,
+      "grand-total": 42667
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 8",
+      "under-sixty-five": 13319,
+      "sixty-five-and-over": 9473,
+      "grand-total": 22792
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 9",
+      "under-sixty-five": 14070,
+      "sixty-five-and-over": 12712,
+      "grand-total": 26782
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 10",
+      "under-sixty-five": 27061,
+      "sixty-five-and-over": 19171,
+      "grand-total": 46232
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 11",
+      "under-sixty-five": 27513,
+      "sixty-five-and-over": 17897,
+      "grand-total": 45410
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 12",
+      "under-sixty-five": 15131,
+      "sixty-five-and-over": 13073,
+      "grand-total": 28204
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 13",
+      "under-sixty-five": 16849,
+      "sixty-five-and-over": 11691,
+      "grand-total": 28540
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 14",
+      "under-sixty-five": 14872,
+      "sixty-five-and-over": 14536,
+      "grand-total": 29409
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 15",
+      "under-sixty-five": 14993,
+      "sixty-five-and-over": 11472,
+      "grand-total": 26465
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 16",
+      "under-sixty-five": 14552,
+      "sixty-five-and-over": 8814,
+      "grand-total": 23366
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 17",
+      "under-sixty-five": 18347,
+      "sixty-five-and-over": 14078,
+      "grand-total": 32425
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 18",
+      "under-sixty-five": 20870,
+      "sixty-five-and-over": 12610,
+      "grand-total": 33480
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 19",
+      "under-sixty-five": 28360,
+      "sixty-five-and-over": 19343,
+      "grand-total": 47704
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 20",
+      "under-sixty-five": 18102,
+      "sixty-five-and-over": 8149,
+      "grand-total": 26251
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 21",
+      "under-sixty-five": 25573,
+      "sixty-five-and-over": 14920,
+      "grand-total": 40493
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 22",
+      "under-sixty-five": 40177,
+      "sixty-five-and-over": 20643,
+      "grand-total": 60820
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 23",
+      "under-sixty-five": 20711,
+      "sixty-five-and-over": 17122,
+      "grand-total": 37833
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 24",
+      "under-sixty-five": 24762,
+      "sixty-five-and-over": 19000,
+      "grand-total": 43762
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 25",
+      "under-sixty-five": 35134,
+      "sixty-five-and-over": 13909,
+      "grand-total": 49043
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 26",
+      "under-sixty-five": 20519,
+      "sixty-five-and-over": 14593,
+      "grand-total": 35112
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 27",
+      "under-sixty-five": 13461,
+      "sixty-five-and-over": 10675,
+      "grand-total": 24136
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 28",
+      "under-sixty-five": 8583,
+      "sixty-five-and-over": 7872,
+      "grand-total": 16455
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 29",
+      "under-sixty-five": 10673,
+      "sixty-five-and-over": 9909,
+      "grand-total": 20582
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 30",
+      "under-sixty-five": 12788,
+      "sixty-five-and-over": 17013,
+      "grand-total": 29801
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 31",
+      "under-sixty-five": 7445,
+      "sixty-five-and-over": 3762,
+      "grand-total": 11207
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 32",
+      "under-sixty-five": 11627,
+      "sixty-five-and-over": 6825,
+      "grand-total": 18453
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 33",
+      "under-sixty-five": 11239,
+      "sixty-five-and-over": 8713,
+      "grand-total": 19952
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 34",
+      "under-sixty-five": 9419,
+      "sixty-five-and-over": 4477,
+      "grand-total": 13896
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 35",
+      "under-sixty-five": 12691,
+      "sixty-five-and-over": 8335,
+      "grand-total": 21026
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 36",
+      "under-sixty-five": 17518,
+      "sixty-five-and-over": 14047,
+      "grand-total": 31565
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 37",
+      "under-sixty-five": 16136,
+      "sixty-five-and-over": 8441,
+      "grand-total": 24577
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 38",
+      "under-sixty-five": 11537,
+      "sixty-five-and-over": 8235,
+      "grand-total": 19772
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 39",
+      "under-sixty-five": 13763,
+      "sixty-five-and-over": 7659,
+      "grand-total": 21423
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 40",
+      "under-sixty-five": 18121,
+      "sixty-five-and-over": 14449,
+      "grand-total": 32570
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 41",
+      "under-sixty-five": 38613,
+      "sixty-five-and-over": 24233,
+      "grand-total": 62845
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 42",
+      "under-sixty-five": 19417,
+      "sixty-five-and-over": 12111,
+      "grand-total": 31528
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 43",
+      "under-sixty-five": 18279,
+      "sixty-five-and-over": 8061,
+      "grand-total": 26340
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 44",
+      "under-sixty-five": 28613,
+      "sixty-five-and-over": 13685,
+      "grand-total": 42298
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 45",
+      "under-sixty-five": 35394,
+      "sixty-five-and-over": 30161,
+      "grand-total": 65555
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 46",
+      "under-sixty-five": 19504,
+      "sixty-five-and-over": 19204,
+      "grand-total": 38708
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 47",
+      "under-sixty-five": 9156,
+      "sixty-five-and-over": 5228,
+      "grand-total": 14385
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 48",
+      "under-sixty-five": 19676,
+      "sixty-five-and-over": 18186,
+      "grand-total": 37861
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 49",
+      "under-sixty-five": 37340,
+      "sixty-five-and-over": 20598,
+      "grand-total": 57937
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 50",
+      "under-sixty-five": 30254,
+      "sixty-five-and-over": 20531,
+      "grand-total": 50785
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 51",
+      "under-sixty-five": 31105,
+      "sixty-five-and-over": 13293,
+      "grand-total": 44399
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 52",
+      "under-sixty-five": 39197,
+      "sixty-five-and-over": 20923,
+      "grand-total": 60119
+    },
+    {
+      "state": "California",
+      "congressional-district": "Congressional District 53",
+      "under-sixty-five": 31735,
+      "sixty-five-and-over": 14440,
+      "grand-total": 46175
+    },
+    {
+      "state": "Colorado",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 22567,
+      "sixty-five-and-over": 14883,
+      "grand-total": 37449
+    },
+    {
+      "state": "Colorado",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 30214,
+      "sixty-five-and-over": 15330,
+      "grand-total": 45543
+    },
+    {
+      "state": "Colorado",
+      "congressional-district": "Congressional District 3",
+      "under-sixty-five": 38271,
+      "sixty-five-and-over": 26001,
+      "grand-total": 64272
+    },
+    {
+      "state": "Colorado",
+      "congressional-district": "Congressional District 4",
+      "under-sixty-five": 33496,
+      "sixty-five-and-over": 20049,
+      "grand-total": 53545
+    },
+    {
+      "state": "Colorado",
+      "congressional-district": "Congressional District 5",
+      "under-sixty-five": 64383,
+      "sixty-five-and-over": 23921,
+      "grand-total": 88304
+    },
+    {
+      "state": "Colorado",
+      "congressional-district": "Congressional District 6",
+      "under-sixty-five": 41077,
+      "sixty-five-and-over": 20680,
+      "grand-total": 61756
+    },
+    {
+      "state": "Colorado",
+      "congressional-district": "Congressional District 7",
+      "under-sixty-five": 33244,
+      "sixty-five-and-over": 21130,
+      "grand-total": 54374
+    },
+    {
+      "state": "Connecticut",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 23813,
+      "sixty-five-and-over": 22569,
+      "grand-total": 46382
+    },
+    {
+      "state": "Connecticut",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 34407,
+      "sixty-five-and-over": 27817,
+      "grand-total": 62224
+    },
+    {
+      "state": "Connecticut",
+      "congressional-district": "Congressional District 3",
+      "under-sixty-five": 21811,
+      "sixty-five-and-over": 22816,
+      "grand-total": 44628
+    },
+    {
+      "state": "Connecticut",
+      "congressional-district": "Congressional District 4",
+      "under-sixty-five": 13458,
+      "sixty-five-and-over": 18516,
+      "grand-total": 31974
+    },
+    {
+      "state": "Connecticut",
+      "congressional-district": "Congressional District 5",
+      "under-sixty-five": 22291,
+      "sixty-five-and-over": 23043,
+      "grand-total": 45333
+    },
+    {
+      "state": "Delaware",
+      "congressional-district": "Congressional District (at Large)",
+      "under-sixty-five": 47120,
+      "sixty-five-and-over": 32846,
+      "grand-total": 79967
+    },
+    {
+      "state": "District of Columbia",
+      "congressional-district": "Delegate District (at Large)",
+      "under-sixty-five": 19247,
+      "sixty-five-and-over": 13823,
+      "grand-total": 33070
+    },
+    {
+      "state": "Florida",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 69283,
+      "sixty-five-and-over": 30080,
+      "grand-total": 99363
+    },
+    {
+      "state": "Florida",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 45315,
+      "sixty-five-and-over": 26016,
+      "grand-total": 71331
+    },
+    {
+      "state": "Florida",
+      "congressional-district": "Congressional District 3",
+      "under-sixty-five": 36482,
+      "sixty-five-and-over": 15665,
+      "grand-total": 52147
+    },
+    {
+      "state": "Florida",
+      "congressional-district": "Congressional District 4",
+      "under-sixty-five": 57443,
+      "sixty-five-and-over": 25543,
+      "grand-total": 82987
+    },
+    {
+      "state": "Florida",
+      "congressional-district": "Congressional District 5",
+      "under-sixty-five": 56324,
+      "sixty-five-and-over": 60429,
+      "grand-total": 116752
+    },
+    {
+      "state": "Florida",
+      "congressional-district": "Congressional District 6",
+      "under-sixty-five": 56890,
+      "sixty-five-and-over": 40791,
+      "grand-total": 97681
+    },
+    {
+      "state": "Florida",
+      "congressional-district": "Congressional District 7",
+      "under-sixty-five": 46458,
+      "sixty-five-and-over": 36198,
+      "grand-total": 82656
+    },
+    {
+      "state": "Florida",
+      "congressional-district": "Congressional District 8",
+      "under-sixty-five": 37631,
+      "sixty-five-and-over": 22847,
+      "grand-total": 60479
+    },
+    {
+      "state": "Florida",
+      "congressional-district": "Congressional District 9",
+      "under-sixty-five": 40706,
+      "sixty-five-and-over": 32377,
+      "grand-total": 73082
+    },
+    {
+      "state": "Florida",
+      "congressional-district": "Congressional District 10",
+      "under-sixty-five": 36813,
+      "sixty-five-and-over": 31622,
+      "grand-total": 68435
+    },
+    {
+      "state": "Florida",
+      "congressional-district": "Congressional District 11",
+      "under-sixty-five": 32013,
+      "sixty-five-and-over": 15636,
+      "grand-total": 47649
+    },
+    {
+      "state": "Florida",
+      "congressional-district": "Congressional District 12",
+      "under-sixty-five": 44633,
+      "sixty-five-and-over": 30297,
+      "grand-total": 74930
+    },
+    {
+      "state": "Florida",
+      "congressional-district": "Congressional District 13",
+      "under-sixty-five": 35101,
+      "sixty-five-and-over": 44556,
+      "grand-total": 79657
+    },
+    {
+      "state": "Florida",
+      "congressional-district": "Congressional District 14",
+      "under-sixty-five": 36449,
+      "sixty-five-and-over": 49189,
+      "grand-total": 85638
+    },
+    {
+      "state": "Florida",
+      "congressional-district": "Congressional District 15",
+      "under-sixty-five": 47108,
+      "sixty-five-and-over": 37893,
+      "grand-total": 85002
+    },
+    {
+      "state": "Florida",
+      "congressional-district": "Congressional District 16",
+      "under-sixty-five": 34695,
+      "sixty-five-and-over": 39933,
+      "grand-total": 74628
+    },
+    {
+      "state": "Florida",
+      "congressional-district": "Congressional District 17",
+      "under-sixty-five": 15788,
+      "sixty-five-and-over": 5551,
+      "grand-total": 21339
+    },
+    {
+      "state": "Florida",
+      "congressional-district": "Congressional District 18",
+      "under-sixty-five": 15969,
+      "sixty-five-and-over": 8079,
+      "grand-total": 24048
+    },
+    {
+      "state": "Florida",
+      "congressional-district": "Congressional District 19",
+      "under-sixty-five": 21839,
+      "sixty-five-and-over": 32948,
+      "grand-total": 54787
+    },
+    {
+      "state": "Florida",
+      "congressional-district": "Congressional District 20",
+      "under-sixty-five": 21449,
+      "sixty-five-and-over": 17016,
+      "grand-total": 38465
+    },
+    {
+      "state": "Florida",
+      "congressional-district": "Congressional District 21",
+      "under-sixty-five": 11635,
+      "sixty-five-and-over": 5024,
+      "grand-total": 16660
+    },
+    {
+      "state": "Florida",
+      "congressional-district": "Congressional District 22",
+      "under-sixty-five": 25059,
+      "sixty-five-and-over": 26416,
+      "grand-total": 51475
+    },
+    {
+      "state": "Florida",
+      "congressional-district": "Congressional District 23",
+      "under-sixty-five": 20507,
+      "sixty-five-and-over": 9053,
+      "grand-total": 29561
+    },
+    {
+      "state": "Florida",
+      "congressional-district": "Congressional District 24",
+      "under-sixty-five": 45159,
+      "sixty-five-and-over": 29082,
+      "grand-total": 74241
+    },
+    {
+      "state": "Florida",
+      "congressional-district": "Congressional District 25",
+      "under-sixty-five": 18968,
+      "sixty-five-and-over": 6071,
+      "grand-total": 25039
+    },
+    {
+      "state": "Georgia",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 51436,
+      "sixty-five-and-over": 21676,
+      "grand-total": 73112
+    },
+    {
+      "state": "Georgia",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 38388,
+      "sixty-five-and-over": 18613,
+      "grand-total": 57001
+    },
+    {
+      "state": "Georgia",
+      "congressional-district": "Congressional District 3",
+      "under-sixty-five": 51782,
+      "sixty-five-and-over": 25666,
+      "grand-total": 77448
+    },
+    {
+      "state": "Georgia",
+      "congressional-district": "Congressional District 4",
+      "under-sixty-five": 30993,
+      "sixty-five-and-over": 11621,
+      "grand-total": 42613
+    },
+    {
+      "state": "Georgia",
+      "congressional-district": "Congressional District 5",
+      "under-sixty-five": 22738,
+      "sixty-five-and-over": 12905,
+      "grand-total": 35644
+    },
+    {
+      "state": "Georgia",
+      "congressional-district": "Congressional District 6",
+      "under-sixty-five": 32578,
+      "sixty-five-and-over": 18838,
+      "grand-total": 51416
+    },
+    {
+      "state": "Georgia",
+      "congressional-district": "Congressional District 7",
+      "under-sixty-five": 43992,
+      "sixty-five-and-over": 17560,
+      "grand-total": 61551
+    },
+    {
+      "state": "Georgia",
+      "congressional-district": "Congressional District 8",
+      "under-sixty-five": 44088,
+      "sixty-five-and-over": 21455,
+      "grand-total": 65543
+    },
+    {
+      "state": "Georgia",
+      "congressional-district": "Congressional District 9",
+      "under-sixty-five": 37305,
+      "sixty-five-and-over": 24932,
+      "grand-total": 62237
+    },
+    {
+      "state": "Georgia",
+      "congressional-district": "Congressional District 10",
+      "under-sixty-five": 39463,
+      "sixty-five-and-over": 24224,
+      "grand-total": 63686
+    },
+    {
+      "state": "Georgia",
+      "congressional-district": "Congressional District 11",
+      "under-sixty-five": 40428,
+      "sixty-five-and-over": 19707,
+      "grand-total": 60135
+    },
+    {
+      "state": "Georgia",
+      "congressional-district": "Congressional District 12",
+      "under-sixty-five": 43531,
+      "sixty-five-and-over": 19647,
+      "grand-total": 63178
+    },
+    {
+      "state": "Georgia",
+      "congressional-district": "Congressional District 13",
+      "under-sixty-five": 49550,
+      "sixty-five-and-over": 15168,
+      "grand-total": 64718
+    },
+    {
+      "state": "Hawaii",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 37436,
+      "sixty-five-and-over": 20503,
+      "grand-total": 57939
+    },
+    {
+      "state": "Hawaii",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 39224,
+      "sixty-five-and-over": 19376,
+      "grand-total": 58600
+    },
+    {
+      "state": "Idaho",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 49744,
+      "sixty-five-and-over": 28504,
+      "grand-total": 78249
+    },
+    {
+      "state": "Idaho",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 38532,
+      "sixty-five-and-over": 21765,
+      "grand-total": 60297
+    },
+    {
+      "state": "Illinois",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 20296,
+      "sixty-five-and-over": 15044,
+      "grand-total": 35340
+    },
+    {
+      "state": "Illinois",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 24284,
+      "sixty-five-and-over": 15791,
+      "grand-total": 40075
+    },
+    {
+      "state": "Illinois",
+      "congressional-district": "Congressional District 3",
+      "under-sixty-five": 16969,
+      "sixty-five-and-over": 16292,
+      "grand-total": 33261
+    },
+    {
+      "state": "Illinois",
+      "congressional-district": "Congressional District 4",
+      "under-sixty-five": 7460,
+      "sixty-five-and-over": 3066,
+      "grand-total": 10526
+    },
+    {
+      "state": "Illinois",
+      "congressional-district": "Congressional District 5",
+      "under-sixty-five": 12402,
+      "sixty-five-and-over": 11154,
+      "grand-total": 23556
+    },
+    {
+      "state": "Illinois",
+      "congressional-district": "Congressional District 6",
+      "under-sixty-five": 17209,
+      "sixty-five-and-over": 16147,
+      "grand-total": 33357
+    },
+    {
+      "state": "Illinois",
+      "congressional-district": "Congressional District 7",
+      "under-sixty-five": 15313,
+      "sixty-five-and-over": 10892,
+      "grand-total": 26205
+    },
+    {
+      "state": "Illinois",
+      "congressional-district": "Congressional District 8",
+      "under-sixty-five": 23954,
+      "sixty-five-and-over": 15699,
+      "grand-total": 39653
+    },
+    {
+      "state": "Illinois",
+      "congressional-district": "Congressional District 9",
+      "under-sixty-five": 11572,
+      "sixty-five-and-over": 15110,
+      "grand-total": 26682
+    },
+    {
+      "state": "Illinois",
+      "congressional-district": "Congressional District 10",
+      "under-sixty-five": 16251,
+      "sixty-five-and-over": 20307,
+      "grand-total": 36557
+    },
+    {
+      "state": "Illinois",
+      "congressional-district": "Congressional District 11",
+      "under-sixty-five": 32184,
+      "sixty-five-and-over": 23429,
+      "grand-total": 55613
+    },
+    {
+      "state": "Illinois",
+      "congressional-district": "Congressional District 12",
+      "under-sixty-five": 39489,
+      "sixty-five-and-over": 25789,
+      "grand-total": 65278
+    },
+    {
+      "state": "Illinois",
+      "congressional-district": "Congressional District 13",
+      "under-sixty-five": 22536,
+      "sixty-five-and-over": 17737,
+      "grand-total": 40273
+    },
+    {
+      "state": "Illinois",
+      "congressional-district": "Congressional District 14",
+      "under-sixty-five": 28251,
+      "sixty-five-and-over": 19285,
+      "grand-total": 47536
+    },
+    {
+      "state": "Illinois",
+      "congressional-district": "Congressional District 15",
+      "under-sixty-five": 28564,
+      "sixty-five-and-over": 23529,
+      "grand-total": 52093
+    },
+    {
+      "state": "Illinois",
+      "congressional-district": "Congressional District 16",
+      "under-sixty-five": 31696,
+      "sixty-five-and-over": 23936,
+      "grand-total": 55632
+    },
+    {
+      "state": "Illinois",
+      "congressional-district": "Congressional District 17",
+      "under-sixty-five": 31850,
+      "sixty-five-and-over": 26153,
+      "grand-total": 58002
+    },
+    {
+      "state": "Illinois",
+      "congressional-district": "Congressional District 18",
+      "under-sixty-five": 35048,
+      "sixty-five-and-over": 26444,
+      "grand-total": 61493
+    },
+    {
+      "state": "Illinois",
+      "congressional-district": "Congressional District 19",
+      "under-sixty-five": 34946,
+      "sixty-five-and-over": 27887,
+      "grand-total": 62833
+    },
+    {
+      "state": "Indiana",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 32451,
+      "sixty-five-and-over": 22533,
+      "grand-total": 54984
+    },
+    {
+      "state": "Indiana",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 33781,
+      "sixty-five-and-over": 21680,
+      "grand-total": 55461
+    },
+    {
+      "state": "Indiana",
+      "congressional-district": "Congressional District 3",
+      "under-sixty-five": 30058,
+      "sixty-five-and-over": 20318,
+      "grand-total": 50376
+    },
+    {
+      "state": "Indiana",
+      "congressional-district": "Congressional District 4",
+      "under-sixty-five": 41445,
+      "sixty-five-and-over": 23999,
+      "grand-total": 65444
+    },
+    {
+      "state": "Indiana",
+      "congressional-district": "Congressional District 5",
+      "under-sixty-five": 38453,
+      "sixty-five-and-over": 26264,
+      "grand-total": 64717
+    },
+    {
+      "state": "Indiana",
+      "congressional-district": "Congressional District 6",
+      "under-sixty-five": 32548,
+      "sixty-five-and-over": 24350,
+      "grand-total": 56898
+    },
+    {
+      "state": "Indiana",
+      "congressional-district": "Congressional District 7",
+      "under-sixty-five": 33924,
+      "sixty-five-and-over": 16486,
+      "grand-total": 50411
+    },
+    {
+      "state": "Indiana",
+      "congressional-district": "Congressional District 8",
+      "under-sixty-five": 34814,
+      "sixty-five-and-over": 24415,
+      "grand-total": 59230
+    },
+    {
+      "state": "Indiana",
+      "congressional-district": "Congressional District 9",
+      "under-sixty-five": 35791,
+      "sixty-five-and-over": 23360,
+      "grand-total": 59151
+    },
+    {
+      "state": "Iowa",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 30160,
+      "sixty-five-and-over": 21378,
+      "grand-total": 51538
+    },
+    {
+      "state": "Iowa",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 29271,
+      "sixty-five-and-over": 21055,
+      "grand-total": 50325
+    },
+    {
+      "state": "Iowa",
+      "congressional-district": "Congressional District 3",
+      "under-sixty-five": 28884,
+      "sixty-five-and-over": 18245,
+      "grand-total": 47129
+    },
+    {
+      "state": "Iowa",
+      "congressional-district": "Congressional District 4",
+      "under-sixty-five": 26577,
+      "sixty-five-and-over": 22489,
+      "grand-total": 49066
+    },
+    {
+      "state": "Iowa",
+      "congressional-district": "Congressional District 5",
+      "under-sixty-five": 26751,
+      "sixty-five-and-over": 22778,
+      "grand-total": 49529
+    },
+    {
+      "state": "Kansas",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 30901,
+      "sixty-five-and-over": 23103,
+      "grand-total": 54004
+    },
+    {
+      "state": "Kansas",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 41130,
+      "sixty-five-and-over": 24350,
+      "grand-total": 65481
+    },
+    {
+      "state": "Kansas",
+      "congressional-district": "Congressional District 3",
+      "under-sixty-five": 32215,
+      "sixty-five-and-over": 21799,
+      "grand-total": 54014
+    },
+    {
+      "state": "Kansas",
+      "congressional-district": "Congressional District 4",
+      "under-sixty-five": 36287,
+      "sixty-five-and-over": 23556,
+      "grand-total": 59843
+    },
+    {
+      "state": "Kentucky",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 33593,
+      "sixty-five-and-over": 24480,
+      "grand-total": 58073
+    },
+    {
+      "state": "Kentucky",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 44878,
+      "sixty-five-and-over": 23354,
+      "grand-total": 68232
+    },
+    {
+      "state": "Kentucky",
+      "congressional-district": "Congressional District 3",
+      "under-sixty-five": 35063,
+      "sixty-five-and-over": 24114,
+      "grand-total": 59177
+    },
+    {
+      "state": "Kentucky",
+      "congressional-district": "Congressional District 4",
+      "under-sixty-five": 39228,
+      "sixty-five-and-over": 22265,
+      "grand-total": 61492
+    },
+    {
+      "state": "Kentucky",
+      "congressional-district": "Congressional District 5",
+      "under-sixty-five": 25308,
+      "sixty-five-and-over": 17715,
+      "grand-total": 43023
+    },
+    {
+      "state": "Kentucky",
+      "congressional-district": "Congressional District 6",
+      "under-sixty-five": 37120,
+      "sixty-five-and-over": 20972,
+      "grand-total": 58092
+    },
+    {
+      "state": "Louisiana",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 31127,
+      "sixty-five-and-over": 21626,
+      "grand-total": 52752
+    },
+    {
+      "state": "Louisiana",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 18237,
+      "sixty-five-and-over": 9722,
+      "grand-total": 27959
+    },
+    {
+      "state": "Louisiana",
+      "congressional-district": "Congressional District 3",
+      "under-sixty-five": 25207,
+      "sixty-five-and-over": 14874,
+      "grand-total": 40081
+    },
+    {
+      "state": "Louisiana",
+      "congressional-district": "Congressional District 4",
+      "under-sixty-five": 38409,
+      "sixty-five-and-over": 22664,
+      "grand-total": 61074
+    },
+    {
+      "state": "Louisiana",
+      "congressional-district": "Congressional District 5",
+      "under-sixty-five": 27572,
+      "sixty-five-and-over": 19411,
+      "grand-total": 46983
+    },
+    {
+      "state": "Louisiana",
+      "congressional-district": "Congressional District 6",
+      "under-sixty-five": 31102,
+      "sixty-five-and-over": 18830,
+      "grand-total": 49932
+    },
+    {
+      "state": "Louisiana",
+      "congressional-district": "Congressional District 7",
+      "under-sixty-five": 29980,
+      "sixty-five-and-over": 17693,
+      "grand-total": 47674
+    },
+    {
+      "state": "Maine",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 37973,
+      "sixty-five-and-over": 28607,
+      "grand-total": 66580
+    },
+    {
+      "state": "Maine",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 40457,
+      "sixty-five-and-over": 28081,
+      "grand-total": 68538
+    },
+    {
+      "state": "Maryland",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 41674,
+      "sixty-five-and-over": 28714,
+      "grand-total": 70388
+    },
+    {
+      "state": "Maryland",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 43516,
+      "sixty-five-and-over": 19924,
+      "grand-total": 63439
+    },
+    {
+      "state": "Maryland",
+      "congressional-district": "Congressional District 3",
+      "under-sixty-five": 37046,
+      "sixty-five-and-over": 21309,
+      "grand-total": 58355
+    },
+    {
+      "state": "Maryland",
+      "congressional-district": "Congressional District 4",
+      "under-sixty-five": 31552,
+      "sixty-five-and-over": 13362,
+      "grand-total": 44914
+    },
+    {
+      "state": "Maryland",
+      "congressional-district": "Congressional District 5",
+      "under-sixty-five": 55301,
+      "sixty-five-and-over": 21726,
+      "grand-total": 77028
+    },
+    {
+      "state": "Maryland",
+      "congressional-district": "Congressional District 6",
+      "under-sixty-five": 41663,
+      "sixty-five-and-over": 23414,
+      "grand-total": 65077
+    },
+    {
+      "state": "Maryland",
+      "congressional-district": "Congressional District 7",
+      "under-sixty-five": 29704,
+      "sixty-five-and-over": 17244,
+      "grand-total": 46948
+    },
+    {
+      "state": "Maryland",
+      "congressional-district": "Congressional District 8",
+      "under-sixty-five": 19390,
+      "sixty-five-and-over": 18668,
+      "grand-total": 38058
+    },
+    {
+      "state": "Massachusetts",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 29758,
+      "sixty-five-and-over": 24015,
+      "grand-total": 53773
+    },
+    {
+      "state": "Massachusetts",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 28387,
+      "sixty-five-and-over": 22035,
+      "grand-total": 50422
+    },
+    {
+      "state": "Massachusetts",
+      "congressional-district": "Congressional District 3",
+      "under-sixty-five": 22459,
+      "sixty-five-and-over": 20083,
+      "grand-total": 42542
+    },
+    {
+      "state": "Massachusetts",
+      "congressional-district": "Congressional District 4",
+      "under-sixty-five": 19264,
+      "sixty-five-and-over": 19945,
+      "grand-total": 39209
+    },
+    {
+      "state": "Massachusetts",
+      "congressional-district": "Congressional District 5",
+      "under-sixty-five": 19912,
+      "sixty-five-and-over": 17601,
+      "grand-total": 37513
+    },
+    {
+      "state": "Massachusetts",
+      "congressional-district": "Congressional District 6",
+      "under-sixty-five": 21196,
+      "sixty-five-and-over": 24156,
+      "grand-total": 45352
+    },
+    {
+      "state": "Massachusetts",
+      "congressional-district": "Congressional District 7",
+      "under-sixty-five": 14804,
+      "sixty-five-and-over": 19717,
+      "grand-total": 34521
+    },
+    {
+      "state": "Massachusetts",
+      "congressional-district": "Congressional District 8",
+      "under-sixty-five": 10311,
+      "sixty-five-and-over": 8242,
+      "grand-total": 18552
+    },
+    {
+      "state": "Massachusetts",
+      "congressional-district": "Congressional District 9",
+      "under-sixty-five": 19218,
+      "sixty-five-and-over": 20261,
+      "grand-total": 39479
+    },
+    {
+      "state": "Massachusetts",
+      "congressional-district": "Congressional District 10",
+      "under-sixty-five": 25840,
+      "sixty-five-and-over": 29240,
+      "grand-total": 55080
+    },
+    {
+      "state": "Michigan",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 35758,
+      "sixty-five-and-over": 33465,
+      "grand-total": 69223
+    },
+    {
+      "state": "Michigan",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 30944,
+      "sixty-five-and-over": 23121,
+      "grand-total": 54065
+    },
+    {
+      "state": "Michigan",
+      "congressional-district": "Congressional District 3",
+      "under-sixty-five": 24577,
+      "sixty-five-and-over": 19575,
+      "grand-total": 44152
+    },
+    {
+      "state": "Michigan",
+      "congressional-district": "Congressional District 4",
+      "under-sixty-five": 30904,
+      "sixty-five-and-over": 25566,
+      "grand-total": 56471
+    },
+    {
+      "state": "Michigan",
+      "congressional-district": "Congressional District 5",
+      "under-sixty-five": 29448,
+      "sixty-five-and-over": 20844,
+      "grand-total": 50292
+    },
+    {
+      "state": "Michigan",
+      "congressional-district": "Congressional District 6",
+      "under-sixty-five": 30187,
+      "sixty-five-and-over": 21811,
+      "grand-total": 51999
+    },
+    {
+      "state": "Michigan",
+      "congressional-district": "Congressional District 7",
+      "under-sixty-five": 32261,
+      "sixty-five-and-over": 22497,
+      "grand-total": 54758
+    },
+    {
+      "state": "Michigan",
+      "congressional-district": "Congressional District 8",
+      "under-sixty-five": 28029,
+      "sixty-five-and-over": 17486,
+      "grand-total": 45515
+    },
+    {
+      "state": "Michigan",
+      "congressional-district": "Congressional District 9",
+      "under-sixty-five": 18188,
+      "sixty-five-and-over": 20680,
+      "grand-total": 38868
+    },
+    {
+      "state": "Michigan",
+      "congressional-district": "Congressional District 10",
+      "under-sixty-five": 31832,
+      "sixty-five-and-over": 22527,
+      "grand-total": 54360
+    },
+    {
+      "state": "Michigan",
+      "congressional-district": "Congressional District 11",
+      "under-sixty-five": 25329,
+      "sixty-five-and-over": 20501,
+      "grand-total": 45830
+    },
+    {
+      "state": "Michigan",
+      "congressional-district": "Congressional District 12",
+      "under-sixty-five": 24225,
+      "sixty-five-and-over": 22590,
+      "grand-total": 46815
+    },
+    {
+      "state": "Michigan",
+      "congressional-district": "Congressional District 13",
+      "under-sixty-five": 16190,
+      "sixty-five-and-over": 12303,
+      "grand-total": 28493
+    },
+    {
+      "state": "Michigan",
+      "congressional-district": "Congressional District 14",
+      "under-sixty-five": 17876,
+      "sixty-five-and-over": 16543,
+      "grand-total": 34419
+    },
+    {
+      "state": "Michigan",
+      "congressional-district": "Congressional District 15",
+      "under-sixty-five": 25807,
+      "sixty-five-and-over": 18327,
+      "grand-total": 44134
+    },
+    {
+      "state": "Minnesota",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 27516,
+      "sixty-five-and-over": 22854,
+      "grand-total": 50370
+    },
+    {
+      "state": "Minnesota",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 32235,
+      "sixty-five-and-over": 17639,
+      "grand-total": 49874
+    },
+    {
+      "state": "Minnesota",
+      "congressional-district": "Congressional District 3",
+      "under-sixty-five": 23499,
+      "sixty-five-and-over": 18782,
+      "grand-total": 42281
+    },
+    {
+      "state": "Minnesota",
+      "congressional-district": "Congressional District 4",
+      "under-sixty-five": 22332,
+      "sixty-five-and-over": 17183,
+      "grand-total": 39515
+    },
+    {
+      "state": "Minnesota",
+      "congressional-district": "Congressional District 5",
+      "under-sixty-five": 21150,
+      "sixty-five-and-over": 15018,
+      "grand-total": 36168
+    },
+    {
+      "state": "Minnesota",
+      "congressional-district": "Congressional District 6",
+      "under-sixty-five": 35265,
+      "sixty-five-and-over": 17609,
+      "grand-total": 52874
+    },
+    {
+      "state": "Minnesota",
+      "congressional-district": "Congressional District 7",
+      "under-sixty-five": 26947,
+      "sixty-five-and-over": 24440,
+      "grand-total": 51387
+    },
+    {
+      "state": "Minnesota",
+      "congressional-district": "Congressional District 8",
+      "under-sixty-five": 36077,
+      "sixty-five-and-over": 28052,
+      "grand-total": 64128
+    },
+    {
+      "state": "Mississippi",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 37120,
+      "sixty-five-and-over": 22882,
+      "grand-total": 60001
+    },
+    {
+      "state": "Mississippi",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 27352,
+      "sixty-five-and-over": 14599,
+      "grand-total": 41951
+    },
+    {
+      "state": "Mississippi",
+      "congressional-district": "Congressional District 3",
+      "under-sixty-five": 34754,
+      "sixty-five-and-over": 21835,
+      "grand-total": 56589
+    },
+    {
+      "state": "Mississippi",
+      "congressional-district": "Congressional District 4",
+      "under-sixty-five": 46301,
+      "sixty-five-and-over": 25951,
+      "grand-total": 72252
+    },
+    {
+      "state": "Missouri",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 27442,
+      "sixty-five-and-over": 18106,
+      "grand-total": 45548
+    },
+    {
+      "state": "Missouri",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 33200,
+      "sixty-five-and-over": 25575,
+      "grand-total": 58775
+    },
+    {
+      "state": "Missouri",
+      "congressional-district": "Congressional District 3",
+      "under-sixty-five": 30540,
+      "sixty-five-and-over": 20388,
+      "grand-total": 50928
+    },
+    {
+      "state": "Missouri",
+      "congressional-district": "Congressional District 4",
+      "under-sixty-five": 41117,
+      "sixty-five-and-over": 28394,
+      "grand-total": 69511
+    },
+    {
+      "state": "Missouri",
+      "congressional-district": "Congressional District 5",
+      "under-sixty-five": 30540,
+      "sixty-five-and-over": 20737,
+      "grand-total": 51277
+    },
+    {
+      "state": "Missouri",
+      "congressional-district": "Congressional District 6",
+      "under-sixty-five": 37853,
+      "sixty-five-and-over": 24017,
+      "grand-total": 61870
+    },
+    {
+      "state": "Missouri",
+      "congressional-district": "Congressional District 7",
+      "under-sixty-five": 38179,
+      "sixty-five-and-over": 27548,
+      "grand-total": 65726
+    },
+    {
+      "state": "Missouri",
+      "congressional-district": "Congressional District 8",
+      "under-sixty-five": 35601,
+      "sixty-five-and-over": 24968,
+      "grand-total": 60569
+    },
+    {
+      "state": "Missouri",
+      "congressional-district": "Congressional District 9",
+      "under-sixty-five": 34206,
+      "sixty-five-and-over": 23116,
+      "grand-total": 57321
+    },
+    {
+      "state": "Montana",
+      "congressional-district": "Congressional District (at Large)",
+      "under-sixty-five": 63355,
+      "sixty-five-and-over": 40235,
+      "grand-total": 103590
+    },
+    {
+      "state": "Nebraska",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 27847,
+      "sixty-five-and-over": 18604,
+      "grand-total": 46451
+    },
+    {
+      "state": "Nebraska",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 35971,
+      "sixty-five-and-over": 17732,
+      "grand-total": 53703
+    },
+    {
+      "state": "Nebraska",
+      "congressional-district": "Congressional District 3",
+      "under-sixty-five": 23144,
+      "sixty-five-and-over": 22101,
+      "grand-total": 45245
+    },
+    {
+      "state": "Nevada",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 40064,
+      "sixty-five-and-over": 21686,
+      "grand-total": 61750
+    },
+    {
+      "state": "Nevada",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 50588,
+      "sixty-five-and-over": 32633,
+      "grand-total": 83221
+    },
+    {
+      "state": "Nevada",
+      "congressional-district": "Congressional District 3",
+      "under-sixty-five": 56017,
+      "sixty-five-and-over": 32314,
+      "grand-total": 88331
+    },
+    {
+      "state": "New Hampshire",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 34517,
+      "sixty-five-and-over": 23434,
+      "grand-total": 57952
+    },
+    {
+      "state": "New Hampshire",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 35023,
+      "sixty-five-and-over": 24580,
+      "grand-total": 59603
+    },
+    {
+      "state": "New Jersey",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 25814,
+      "sixty-five-and-over": 21814,
+      "grand-total": 47629
+    },
+    {
+      "state": "New Jersey",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 25652,
+      "sixty-five-and-over": 24393,
+      "grand-total": 50045
+    },
+    {
+      "state": "New Jersey",
+      "congressional-district": "Congressional District 3",
+      "under-sixty-five": 28516,
+      "sixty-five-and-over": 29948,
+      "grand-total": 58463
+    },
+    {
+      "state": "New Jersey",
+      "congressional-district": "Congressional District 4",
+      "under-sixty-five": 22436,
+      "sixty-five-and-over": 26425,
+      "grand-total": 48861
+    },
+    {
+      "state": "New Jersey",
+      "congressional-district": "Congressional District 5",
+      "under-sixty-five": 17525,
+      "sixty-five-and-over": 20113,
+      "grand-total": 37638
+    },
+    {
+      "state": "New Jersey",
+      "congressional-district": "Congressional District 6",
+      "under-sixty-five": 18667,
+      "sixty-five-and-over": 15740,
+      "grand-total": 34407
+    },
+    {
+      "state": "New Jersey",
+      "congressional-district": "Congressional District 7",
+      "under-sixty-five": 15525,
+      "sixty-five-and-over": 18245,
+      "grand-total": 33769
+    },
+    {
+      "state": "New Jersey",
+      "congressional-district": "Congressional District 8",
+      "under-sixty-five": 12510,
+      "sixty-five-and-over": 13511,
+      "grand-total": 26021
+    },
+    {
+      "state": "New Jersey",
+      "congressional-district": "Congressional District 9",
+      "under-sixty-five": 12659,
+      "sixty-five-and-over": 13527,
+      "grand-total": 26186
+    },
+    {
+      "state": "New Jersey",
+      "congressional-district": "Congressional District 10",
+      "under-sixty-five": 14248,
+      "sixty-five-and-over": 9694,
+      "grand-total": 23943
+    },
+    {
+      "state": "New Jersey",
+      "congressional-district": "Congressional District 11",
+      "under-sixty-five": 16329,
+      "sixty-five-and-over": 20645,
+      "grand-total": 36974
+    },
+    {
+      "state": "New Jersey",
+      "congressional-district": "Congressional District 12",
+      "under-sixty-five": 15317,
+      "sixty-five-and-over": 19628,
+      "grand-total": 34945
+    },
+    {
+      "state": "New Jersey",
+      "congressional-district": "Congressional District 13",
+      "under-sixty-five": 10111,
+      "sixty-five-and-over": 6877,
+      "grand-total": 16989
+    },
+    {
+      "state": "New Mexico",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 39104,
+      "sixty-five-and-over": 21411,
+      "grand-total": 60515
+    },
+    {
+      "state": "New Mexico",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 35600,
+      "sixty-five-and-over": 23076,
+      "grand-total": 58676
+    },
+    {
+      "state": "New Mexico",
+      "congressional-district": "Congressional District 3",
+      "under-sixty-five": 35971,
+      "sixty-five-and-over": 19309,
+      "grand-total": 55280
+    },
+    {
+      "state": "New York",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 21698,
+      "sixty-five-and-over": 22530,
+      "grand-total": 44229
+    },
+    {
+      "state": "New York",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 16210,
+      "sixty-five-and-over": 18796,
+      "grand-total": 35006
+    },
+    {
+      "state": "New York",
+      "congressional-district": "Congressional District 3",
+      "under-sixty-five": 16361,
+      "sixty-five-and-over": 20810,
+      "grand-total": 37171
+    },
+    {
+      "state": "New York",
+      "congressional-district": "Congressional District 4",
+      "under-sixty-five": 12793,
+      "sixty-five-and-over": 16116,
+      "grand-total": 28909
+    },
+    {
+      "state": "New York",
+      "congressional-district": "Congressional District 5",
+      "under-sixty-five": 7501,
+      "sixty-five-and-over": 12688,
+      "grand-total": 20189
+    },
+    {
+      "state": "New York",
+      "congressional-district": "Congressional District 6",
+      "under-sixty-five": 12604,
+      "sixty-five-and-over": 7667,
+      "grand-total": 20271
+    },
+    {
+      "state": "New York",
+      "congressional-district": "Congressional District 7",
+      "under-sixty-five": 12183,
+      "sixty-five-and-over": 10067,
+      "grand-total": 22250
+    },
+    {
+      "state": "New York",
+      "congressional-district": "Congressional District 8",
+      "under-sixty-five": 7749,
+      "sixty-five-and-over": 9864,
+      "grand-total": 17613
+    },
+    {
+      "state": "New York",
+      "congressional-district": "Congressional District 9",
+      "under-sixty-five": 10432,
+      "sixty-five-and-over": 11983,
+      "grand-total": 22415
+    },
+    {
+      "state": "New York",
+      "congressional-district": "Congressional District 10",
+      "under-sixty-five": 10581,
+      "sixty-five-and-over": 4916,
+      "grand-total": 15498
+    },
+    {
+      "state": "New York",
+      "congressional-district": "Congressional District 11",
+      "under-sixty-five": 8895,
+      "sixty-five-and-over": 4611,
+      "grand-total": 13506
+    },
+    {
+      "state": "New York",
+      "congressional-district": "Congressional District 12",
+      "under-sixty-five": 8342,
+      "sixty-five-and-over": 4467,
+      "grand-total": 12809
+    },
+    {
+      "state": "New York",
+      "congressional-district": "Congressional District 13",
+      "under-sixty-five": 14735,
+      "sixty-five-and-over": 17812,
+      "grand-total": 32547
+    },
+    {
+      "state": "New York",
+      "congressional-district": "Congressional District 14",
+      "under-sixty-five": 8233,
+      "sixty-five-and-over": 12218,
+      "grand-total": 20451
+    },
+    {
+      "state": "New York",
+      "congressional-district": "Congressional District 15",
+      "under-sixty-five": 9517,
+      "sixty-five-and-over": 5863,
+      "grand-total": 15380
+    },
+    {
+      "state": "New York",
+      "congressional-district": "Congressional District 16",
+      "under-sixty-five": 8287,
+      "sixty-five-and-over": 3696,
+      "grand-total": 11983
+    },
+    {
+      "state": "New York",
+      "congressional-district": "Congressional District 17",
+      "under-sixty-five": 12094,
+      "sixty-five-and-over": 11737,
+      "grand-total": 23831
+    },
+    {
+      "state": "New York",
+      "congressional-district": "Congressional District 18",
+      "under-sixty-five": 10458,
+      "sixty-five-and-over": 17557,
+      "grand-total": 28015
+    },
+    {
+      "state": "New York",
+      "congressional-district": "Congressional District 19",
+      "under-sixty-five": 23488,
+      "sixty-five-and-over": 19100,
+      "grand-total": 42588
+    },
+    {
+      "state": "New York",
+      "congressional-district": "Congressional District 20",
+      "under-sixty-five": 33840,
+      "sixty-five-and-over": 25137,
+      "grand-total": 58978
+    },
+    {
+      "state": "New York",
+      "congressional-district": "Congressional District 21",
+      "under-sixty-five": 28123,
+      "sixty-five-and-over": 23324,
+      "grand-total": 51447
+    },
+    {
+      "state": "New York",
+      "congressional-district": "Congressional District 22",
+      "under-sixty-five": 26250,
+      "sixty-five-and-over": 21019,
+      "grand-total": 47269
+    },
+    {
+      "state": "New York",
+      "congressional-district": "Congressional District 23",
+      "under-sixty-five": 37682,
+      "sixty-five-and-over": 21786,
+      "grand-total": 59468
+    },
+    {
+      "state": "New York",
+      "congressional-district": "Congressional District 24",
+      "under-sixty-five": 29525,
+      "sixty-five-and-over": 24647,
+      "grand-total": 54172
+    },
+    {
+      "state": "New York",
+      "congressional-district": "Congressional District 25",
+      "under-sixty-five": 25914,
+      "sixty-five-and-over": 21672,
+      "grand-total": 47587
+    },
+    {
+      "state": "New York",
+      "congressional-district": "Congressional District 26",
+      "under-sixty-five": 27752,
+      "sixty-five-and-over": 23948,
+      "grand-total": 51700
+    },
+    {
+      "state": "New York",
+      "congressional-district": "Congressional District 27",
+      "under-sixty-five": 27691,
+      "sixty-five-and-over": 23632,
+      "grand-total": 51323
+    },
+    {
+      "state": "New York",
+      "congressional-district": "Congressional District 28",
+      "under-sixty-five": 24714,
+      "sixty-five-and-over": 17726,
+      "grand-total": 42439
+    },
+    {
+      "state": "New York",
+      "congressional-district": "Congressional District 29",
+      "under-sixty-five": 30447,
+      "sixty-five-and-over": 24352,
+      "grand-total": 54799
+    },
+    {
+      "state": "North Carolina",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 33533,
+      "sixty-five-and-over": 17926,
+      "grand-total": 51459
+    },
+    {
+      "state": "North Carolina",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 47679,
+      "sixty-five-and-over": 17860,
+      "grand-total": 65539
+    },
+    {
+      "state": "North Carolina",
+      "congressional-district": "Congressional District 3",
+      "under-sixty-five": 50584,
+      "sixty-five-and-over": 24788,
+      "grand-total": 75371
+    },
+    {
+      "state": "North Carolina",
+      "congressional-district": "Congressional District 4",
+      "under-sixty-five": 32650,
+      "sixty-five-and-over": 19150,
+      "grand-total": 51800
+    },
+    {
+      "state": "North Carolina",
+      "congressional-district": "Congressional District 5",
+      "under-sixty-five": 30721,
+      "sixty-five-and-over": 22812,
+      "grand-total": 53533
+    },
+    {
+      "state": "North Carolina",
+      "congressional-district": "Congressional District 6",
+      "under-sixty-five": 35861,
+      "sixty-five-and-over": 26225,
+      "grand-total": 62086
+    },
+    {
+      "state": "North Carolina",
+      "congressional-district": "Congressional District 7",
+      "under-sixty-five": 42928,
+      "sixty-five-and-over": 24528,
+      "grand-total": 67456
+    },
+    {
+      "state": "North Carolina",
+      "congressional-district": "Congressional District 8",
+      "under-sixty-five": 44330,
+      "sixty-five-and-over": 18175,
+      "grand-total": 62505
+    },
+    {
+      "state": "North Carolina",
+      "congressional-district": "Congressional District 9",
+      "under-sixty-five": 37288,
+      "sixty-five-and-over": 23193,
+      "grand-total": 60481
+    },
+    {
+      "state": "North Carolina",
+      "congressional-district": "Congressional District 10",
+      "under-sixty-five": 32505,
+      "sixty-five-and-over": 22921,
+      "grand-total": 55426
+    },
+    {
+      "state": "North Carolina",
+      "congressional-district": "Congressional District 11",
+      "under-sixty-five": 35662,
+      "sixty-five-and-over": 32094,
+      "grand-total": 67756
+    },
+    {
+      "state": "North Carolina",
+      "congressional-district": "Congressional District 12",
+      "under-sixty-five": 34473,
+      "sixty-five-and-over": 15332,
+      "grand-total": 49805
+    },
+    {
+      "state": "North Carolina",
+      "congressional-district": "Congressional District 13",
+      "under-sixty-five": 34295,
+      "sixty-five-and-over": 19171,
+      "grand-total": 53466
+    },
+    {
+      "state": "North Dakota",
+      "congressional-district": "Congressional District (at Large)",
+      "under-sixty-five": 36277,
+      "sixty-five-and-over": 20418,
+      "grand-total": 56696
+    },
+    {
+      "state": "Ohio",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 23521,
+      "sixty-five-and-over": 18493,
+      "grand-total": 42015
+    },
+    {
+      "state": "Ohio",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 30561,
+      "sixty-five-and-over": 22109,
+      "grand-total": 52670
+    },
+    {
+      "state": "Ohio",
+      "congressional-district": "Congressional District 3",
+      "under-sixty-five": 32431,
+      "sixty-five-and-over": 24598,
+      "grand-total": 57029
+    },
+    {
+      "state": "Ohio",
+      "congressional-district": "Congressional District 4",
+      "under-sixty-five": 32937,
+      "sixty-five-and-over": 21637,
+      "grand-total": 54575
+    },
+    {
+      "state": "Ohio",
+      "congressional-district": "Congressional District 5",
+      "under-sixty-five": 30137,
+      "sixty-five-and-over": 20538,
+      "grand-total": 50675
+    },
+    {
+      "state": "Ohio",
+      "congressional-district": "Congressional District 6",
+      "under-sixty-five": 31032,
+      "sixty-five-and-over": 25882,
+      "grand-total": 56915
+    },
+    {
+      "state": "Ohio",
+      "congressional-district": "Congressional District 7",
+      "under-sixty-five": 40710,
+      "sixty-five-and-over": 23978,
+      "grand-total": 64687
+    },
+    {
+      "state": "Ohio",
+      "congressional-district": "Congressional District 8",
+      "under-sixty-five": 33134,
+      "sixty-five-and-over": 21339,
+      "grand-total": 54473
+    },
+    {
+      "state": "Ohio",
+      "congressional-district": "Congressional District 9",
+      "under-sixty-five": 29304,
+      "sixty-five-and-over": 22784,
+      "grand-total": 52088
+    },
+    {
+      "state": "Ohio",
+      "congressional-district": "Congressional District 10",
+      "under-sixty-five": 24088,
+      "sixty-five-and-over": 21558,
+      "grand-total": 45647
+    },
+    {
+      "state": "Ohio",
+      "congressional-district": "Congressional District 11",
+      "under-sixty-five": 20834,
+      "sixty-five-and-over": 17090,
+      "grand-total": 37924
+    },
+    {
+      "state": "Ohio",
+      "congressional-district": "Congressional District 12",
+      "under-sixty-five": 32416,
+      "sixty-five-and-over": 20844,
+      "grand-total": 53260
+    },
+    {
+      "state": "Ohio",
+      "congressional-district": "Congressional District 13",
+      "under-sixty-five": 31384,
+      "sixty-five-and-over": 23049,
+      "grand-total": 54433
+    },
+    {
+      "state": "Ohio",
+      "congressional-district": "Congressional District 14",
+      "under-sixty-five": 28863,
+      "sixty-five-and-over": 24179,
+      "grand-total": 53041
+    },
+    {
+      "state": "Ohio",
+      "congressional-district": "Congressional District 15",
+      "under-sixty-five": 28580,
+      "sixty-five-and-over": 17040,
+      "grand-total": 45620
+    },
+    {
+      "state": "Ohio",
+      "congressional-district": "Congressional District 16",
+      "under-sixty-five": 30602,
+      "sixty-five-and-over": 24206,
+      "grand-total": 54808
+    },
+    {
+      "state": "Ohio",
+      "congressional-district": "Congressional District 17",
+      "under-sixty-five": 31832,
+      "sixty-five-and-over": 24499,
+      "grand-total": 56331
+    },
+    {
+      "state": "Ohio",
+      "congressional-district": "Congressional District 18",
+      "under-sixty-five": 33336,
+      "sixty-five-and-over": 23519,
+      "grand-total": 56855
+    },
+    {
+      "state": "Oklahoma",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 41259,
+      "sixty-five-and-over": 24511,
+      "grand-total": 65770
+    },
+    {
+      "state": "Oklahoma",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 40135,
+      "sixty-five-and-over": 28940,
+      "grand-total": 69075
+    },
+    {
+      "state": "Oklahoma",
+      "congressional-district": "Congressional District 3",
+      "under-sixty-five": 41212,
+      "sixty-five-and-over": 26038,
+      "grand-total": 67250
+    },
+    {
+      "state": "Oklahoma",
+      "congressional-district": "Congressional District 4",
+      "under-sixty-five": 53170,
+      "sixty-five-and-over": 28446,
+      "grand-total": 81615
+    },
+    {
+      "state": "Oklahoma",
+      "congressional-district": "Congressional District 5",
+      "under-sixty-five": 38981,
+      "sixty-five-and-over": 24683,
+      "grand-total": 63664
+    },
+    {
+      "state": "Oregon",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 39974,
+      "sixty-five-and-over": 22929,
+      "grand-total": 62903
+    },
+    {
+      "state": "Oregon",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 43190,
+      "sixty-five-and-over": 36081,
+      "grand-total": 79271
+    },
+    {
+      "state": "Oregon",
+      "congressional-district": "Congressional District 3",
+      "under-sixty-five": 33683,
+      "sixty-five-and-over": 20757,
+      "grand-total": 54439
+    },
+    {
+      "state": "Oregon",
+      "congressional-district": "Congressional District 4",
+      "under-sixty-five": 41620,
+      "sixty-five-and-over": 34929,
+      "grand-total": 76549
+    },
+    {
+      "state": "Oregon",
+      "congressional-district": "Congressional District 5",
+      "under-sixty-five": 38599,
+      "sixty-five-and-over": 28129,
+      "grand-total": 66728
+    },
+    {
+      "state": "Pennsylvania",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 19264,
+      "sixty-five-and-over": 12618,
+      "grand-total": 31882
+    },
+    {
+      "state": "Pennsylvania",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 19278,
+      "sixty-five-and-over": 15858,
+      "grand-total": 35136
+    },
+    {
+      "state": "Pennsylvania",
+      "congressional-district": "Congressional District 3",
+      "under-sixty-five": 32017,
+      "sixty-five-and-over": 26412,
+      "grand-total": 58429
+    },
+    {
+      "state": "Pennsylvania",
+      "congressional-district": "Congressional District 4",
+      "under-sixty-five": 28362,
+      "sixty-five-and-over": 29287,
+      "grand-total": 57649
+    },
+    {
+      "state": "Pennsylvania",
+      "congressional-district": "Congressional District 5",
+      "under-sixty-five": 33565,
+      "sixty-five-and-over": 26775,
+      "grand-total": 60339
+    },
+    {
+      "state": "Pennsylvania",
+      "congressional-district": "Congressional District 6",
+      "under-sixty-five": 25643,
+      "sixty-five-and-over": 25799,
+      "grand-total": 51442
+    },
+    {
+      "state": "Pennsylvania",
+      "congressional-district": "Congressional District 7",
+      "under-sixty-five": 21679,
+      "sixty-five-and-over": 26044,
+      "grand-total": 47723
+    },
+    {
+      "state": "Pennsylvania",
+      "congressional-district": "Congressional District 8",
+      "under-sixty-five": 26521,
+      "sixty-five-and-over": 25157,
+      "grand-total": 51677
+    },
+    {
+      "state": "Pennsylvania",
+      "congressional-district": "Congressional District 9",
+      "under-sixty-five": 34489,
+      "sixty-five-and-over": 27832,
+      "grand-total": 62322
+    },
+    {
+      "state": "Pennsylvania",
+      "congressional-district": "Congressional District 10",
+      "under-sixty-five": 33988,
+      "sixty-five-and-over": 29321,
+      "grand-total": 63309
+    },
+    {
+      "state": "Pennsylvania",
+      "congressional-district": "Congressional District 11",
+      "under-sixty-five": 32003,
+      "sixty-five-and-over": 29575,
+      "grand-total": 61578
+    },
+    {
+      "state": "Pennsylvania",
+      "congressional-district": "Congressional District 12",
+      "under-sixty-five": 31785,
+      "sixty-five-and-over": 29854,
+      "grand-total": 61639
+    },
+    {
+      "state": "Pennsylvania",
+      "congressional-district": "Congressional District 13",
+      "under-sixty-five": 21773,
+      "sixty-five-and-over": 24740,
+      "grand-total": 46514
+    },
+    {
+      "state": "Pennsylvania",
+      "congressional-district": "Congressional District 14",
+      "under-sixty-five": 26750,
+      "sixty-five-and-over": 22635,
+      "grand-total": 49384
+    },
+    {
+      "state": "Pennsylvania",
+      "congressional-district": "Congressional District 15",
+      "under-sixty-five": 29333,
+      "sixty-five-and-over": 27534,
+      "grand-total": 56867
+    },
+    {
+      "state": "Pennsylvania",
+      "congressional-district": "Congressional District 16",
+      "under-sixty-five": 26209,
+      "sixty-five-and-over": 23724,
+      "grand-total": 49933
+    },
+    {
+      "state": "Pennsylvania",
+      "congressional-district": "Congressional District 17",
+      "under-sixty-five": 35056,
+      "sixty-five-and-over": 27372,
+      "grand-total": 62428
+    },
+    {
+      "state": "Pennsylvania",
+      "congressional-district": "Congressional District 18",
+      "under-sixty-five": 29131,
+      "sixty-five-and-over": 31035,
+      "grand-total": 60165
+    },
+    {
+      "state": "Pennsylvania",
+      "congressional-district": "Congressional District 19",
+      "under-sixty-five": 38916,
+      "sixty-five-and-over": 28233,
+      "grand-total": 67148
+    },
+    {
+      "state": "Rhode Island",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 19380,
+      "sixty-five-and-over": 18042,
+      "grand-total": 37422
+    },
+    {
+      "state": "Rhode Island",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 19380,
+      "sixty-five-and-over": 18042,
+      "grand-total": 37422
+    },
+    {
+      "state": "South Carolina",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 60019,
+      "sixty-five-and-over": 33251,
+      "grand-total": 93270
+    },
+    {
+      "state": "South Carolina",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 52853,
+      "sixty-five-and-over": 27881,
+      "grand-total": 80734
+    },
+    {
+      "state": "South Carolina",
+      "congressional-district": "Congressional District 3",
+      "under-sixty-five": 37424,
+      "sixty-five-and-over": 26135,
+      "grand-total": 63559
+    },
+    {
+      "state": "South Carolina",
+      "congressional-district": "Congressional District 4",
+      "under-sixty-five": 38504,
+      "sixty-five-and-over": 23229,
+      "grand-total": 61733
+    },
+    {
+      "state": "South Carolina",
+      "congressional-district": "Congressional District 5",
+      "under-sixty-five": 43564,
+      "sixty-five-and-over": 23050,
+      "grand-total": 66615
+    },
+    {
+      "state": "South Carolina",
+      "congressional-district": "Congressional District 6",
+      "under-sixty-five": 37223,
+      "sixty-five-and-over": 19164,
+      "grand-total": 56387
+    },
+    {
+      "state": "South Dakota",
+      "congressional-district": "Congressional District (at Large)",
+      "under-sixty-five": 47594,
+      "sixty-five-and-over": 28726,
+      "grand-total": 76320
+    },
+    {
+      "state": "Tennessee",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 37541,
+      "sixty-five-and-over": 29009,
+      "grand-total": 66549
+    },
+    {
+      "state": "Tennessee",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 37814,
+      "sixty-five-and-over": 26901,
+      "grand-total": 64716
+    },
+    {
+      "state": "Tennessee",
+      "congressional-district": "Congressional District 3",
+      "under-sixty-five": 35080,
+      "sixty-five-and-over": 26922,
+      "grand-total": 62002
+    },
+    {
+      "state": "Tennessee",
+      "congressional-district": "Congressional District 4",
+      "under-sixty-five": 34057,
+      "sixty-five-and-over": 26140,
+      "grand-total": 60197
+    },
+    {
+      "state": "Tennessee",
+      "congressional-district": "Congressional District 5",
+      "under-sixty-five": 31770,
+      "sixty-five-and-over": 17872,
+      "grand-total": 49643
+    },
+    {
+      "state": "Tennessee",
+      "congressional-district": "Congressional District 6",
+      "under-sixty-five": 40869,
+      "sixty-five-and-over": 21570,
+      "grand-total": 62439
+    },
+    {
+      "state": "Tennessee",
+      "congressional-district": "Congressional District 7",
+      "under-sixty-five": 48323,
+      "sixty-five-and-over": 22700,
+      "grand-total": 71024
+    },
+    {
+      "state": "Tennessee",
+      "congressional-district": "Congressional District 8",
+      "under-sixty-five": 37558,
+      "sixty-five-and-over": 20978,
+      "grand-total": 58536
+    },
+    {
+      "state": "Tennessee",
+      "congressional-district": "Congressional District 9",
+      "under-sixty-five": 24902,
+      "sixty-five-and-over": 13795,
+      "grand-total": 38698
+    },
+    {
+      "state": "Texas",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 32052,
+      "sixty-five-and-over": 24754,
+      "grand-total": 56806
+    },
+    {
+      "state": "Texas",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 38829,
+      "sixty-five-and-over": 18629,
+      "grand-total": 57458
+    },
+    {
+      "state": "Texas",
+      "congressional-district": "Congressional District 3",
+      "under-sixty-five": 32373,
+      "sixty-five-and-over": 14268,
+      "grand-total": 46641
+    },
+    {
+      "state": "Texas",
+      "congressional-district": "Congressional District 4",
+      "under-sixty-five": 44409,
+      "sixty-five-and-over": 27857,
+      "grand-total": 72266
+    },
+    {
+      "state": "Texas",
+      "congressional-district": "Congressional District 5",
+      "under-sixty-five": 34052,
+      "sixty-five-and-over": 22125,
+      "grand-total": 56177
+    },
+    {
+      "state": "Texas",
+      "congressional-district": "Congressional District 6",
+      "under-sixty-five": 38915,
+      "sixty-five-and-over": 20164,
+      "grand-total": 59079
+    },
+    {
+      "state": "Texas",
+      "congressional-district": "Congressional District 7",
+      "under-sixty-five": 24951,
+      "sixty-five-and-over": 17958,
+      "grand-total": 42909
+    },
+    {
+      "state": "Texas",
+      "congressional-district": "Congressional District 8",
+      "under-sixty-five": 44673,
+      "sixty-five-and-over": 27151,
+      "grand-total": 71825
+    },
+    {
+      "state": "Texas",
+      "congressional-district": "Congressional District 9",
+      "under-sixty-five": 18731,
+      "sixty-five-and-over": 8200,
+      "grand-total": 26931
+    },
+    {
+      "state": "Texas",
+      "congressional-district": "Congressional District 10",
+      "under-sixty-five": 39364,
+      "sixty-five-and-over": 16713,
+      "grand-total": 56077
+    },
+    {
+      "state": "Texas",
+      "congressional-district": "Congressional District 11",
+      "under-sixty-five": 32843,
+      "sixty-five-and-over": 24667,
+      "grand-total": 57511
+    },
+    {
+      "state": "Texas",
+      "congressional-district": "Congressional District 12",
+      "under-sixty-five": 41301,
+      "sixty-five-and-over": 20832,
+      "grand-total": 62133
+    },
+    {
+      "state": "Texas",
+      "congressional-district": "Congressional District 13",
+      "under-sixty-five": 32079,
+      "sixty-five-and-over": 22710,
+      "grand-total": 54789
+    },
+    {
+      "state": "Texas",
+      "congressional-district": "Congressional District 14",
+      "under-sixty-five": 40413,
+      "sixty-five-and-over": 23045,
+      "grand-total": 63457
+    },
+    {
+      "state": "Texas",
+      "congressional-district": "Congressional District 15",
+      "under-sixty-five": 22282,
+      "sixty-five-and-over": 14265,
+      "grand-total": 36548
+    },
+    {
+      "state": "Texas",
+      "congressional-district": "Congressional District 16",
+      "under-sixty-five": 31975,
+      "sixty-five-and-over": 13236,
+      "grand-total": 45212
+    },
+    {
+      "state": "Texas",
+      "congressional-district": "Congressional District 17",
+      "under-sixty-five": 34112,
+      "sixty-five-and-over": 22796,
+      "grand-total": 56909
+    },
+    {
+      "state": "Texas",
+      "congressional-district": "Congressional District 18",
+      "under-sixty-five": 20607,
+      "sixty-five-and-over": 9844,
+      "grand-total": 30451
+    },
+    {
+      "state": "Texas",
+      "congressional-district": "Congressional District 19",
+      "under-sixty-five": 27680,
+      "sixty-five-and-over": 18983,
+      "grand-total": 46662
+    },
+    {
+      "state": "Texas",
+      "congressional-district": "Congressional District 20",
+      "under-sixty-five": 40099,
+      "sixty-five-and-over": 17222,
+      "grand-total": 57322
+    },
+    {
+      "state": "Texas",
+      "congressional-district": "Congressional District 21",
+      "under-sixty-five": 56732,
+      "sixty-five-and-over": 30520,
+      "grand-total": 87252
+    },
+    {
+      "state": "Texas",
+      "congressional-district": "Congressional District 22",
+      "under-sixty-five": 40346,
+      "sixty-five-and-over": 19016,
+      "grand-total": 59362
+    },
+    {
+      "state": "Texas",
+      "congressional-district": "Congressional District 23",
+      "under-sixty-five": 41427,
+      "sixty-five-and-over": 17983,
+      "grand-total": 59409
+    },
+    {
+      "state": "Texas",
+      "congressional-district": "Congressional District 24",
+      "under-sixty-five": 31892,
+      "sixty-five-and-over": 13785,
+      "grand-total": 45677
+    },
+    {
+      "state": "Texas",
+      "congressional-district": "Congressional District 25",
+      "under-sixty-five": 33262,
+      "sixty-five-and-over": 17730,
+      "grand-total": 50992
+    },
+    {
+      "state": "Texas",
+      "congressional-district": "Congressional District 26",
+      "under-sixty-five": 41679,
+      "sixty-five-and-over": 19163,
+      "grand-total": 60842
+    },
+    {
+      "state": "Texas",
+      "congressional-district": "Congressional District 27",
+      "under-sixty-five": 31005,
+      "sixty-five-and-over": 16574,
+      "grand-total": 47578
+    },
+    {
+      "state": "Texas",
+      "congressional-district": "Congressional District 28",
+      "under-sixty-five": 29299,
+      "sixty-five-and-over": 14109,
+      "grand-total": 43408
+    },
+    {
+      "state": "Texas",
+      "congressional-district": "Congressional District 29",
+      "under-sixty-five": 14664,
+      "sixty-five-and-over": 8058,
+      "grand-total": 22722
+    },
+    {
+      "state": "Texas",
+      "congressional-district": "Congressional District 30",
+      "under-sixty-five": 21380,
+      "sixty-five-and-over": 9794,
+      "grand-total": 31174
+    },
+    {
+      "state": "Texas",
+      "congressional-district": "Congressional District 31",
+      "under-sixty-five": 69605,
+      "sixty-five-and-over": 23578,
+      "grand-total": 93183
+    },
+    {
+      "state": "Texas",
+      "congressional-district": "Congressional District 32",
+      "under-sixty-five": 16110,
+      "sixty-five-and-over": 14890,
+      "grand-total": 31000
+    },
+    {
+      "state": "Utah",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 38219,
+      "sixty-five-and-over": 20662,
+      "grand-total": 58881
+    },
+    {
+      "state": "Utah",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 29292,
+      "sixty-five-and-over": 24320,
+      "grand-total": 53612
+    },
+    {
+      "state": "Utah",
+      "congressional-district": "Congressional District 3",
+      "under-sixty-five": 26866,
+      "sixty-five-and-over": 14541,
+      "grand-total": 41408
+    },
+    {
+      "state": "Vermont",
+      "congressional-district": "Congressional District (at Large)",
+      "under-sixty-five": 29584,
+      "sixty-five-and-over": 22505,
+      "grand-total": 52090
+    },
+    {
+      "state": "Virginia",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 83333,
+      "sixty-five-and-over": 27822,
+      "grand-total": 111155
+    },
+    {
+      "state": "Virginia",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 71764,
+      "sixty-five-and-over": 22985,
+      "grand-total": 94749
+    },
+    {
+      "state": "Virginia",
+      "congressional-district": "Congressional District 3",
+      "under-sixty-five": 58985,
+      "sixty-five-and-over": 17607,
+      "grand-total": 76593
+    },
+    {
+      "state": "Virginia",
+      "congressional-district": "Congressional District 4",
+      "under-sixty-five": 69157,
+      "sixty-five-and-over": 23342,
+      "grand-total": 92498
+    },
+    {
+      "state": "Virginia",
+      "congressional-district": "Congressional District 5",
+      "under-sixty-five": 38575,
+      "sixty-five-and-over": 23344,
+      "grand-total": 61919
+    },
+    {
+      "state": "Virginia",
+      "congressional-district": "Congressional District 6",
+      "under-sixty-five": 40459,
+      "sixty-five-and-over": 24070,
+      "grand-total": 64529
+    },
+    {
+      "state": "Virginia",
+      "congressional-district": "Congressional District 7",
+      "under-sixty-five": 45838,
+      "sixty-five-and-over": 23652,
+      "grand-total": 69490
+    },
+    {
+      "state": "Virginia",
+      "congressional-district": "Congressional District 8",
+      "under-sixty-five": 39122,
+      "sixty-five-and-over": 15076,
+      "grand-total": 54198
+    },
+    {
+      "state": "Virginia",
+      "congressional-district": "Congressional District 9",
+      "under-sixty-five": 31914,
+      "sixty-five-and-over": 21890,
+      "grand-total": 53804
+    },
+    {
+      "state": "Virginia",
+      "congressional-district": "Congressional District 10",
+      "under-sixty-five": 53116,
+      "sixty-five-and-over": 18164,
+      "grand-total": 71279
+    },
+    {
+      "state": "Virginia",
+      "congressional-district": "Congressional District 11",
+      "under-sixty-five": 56849,
+      "sixty-five-and-over": 20746,
+      "grand-total": 77595
+    },
+    {
+      "state": "Washington",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 41379,
+      "sixty-five-and-over": 20462,
+      "grand-total": 61841
+    },
+    {
+      "state": "Washington",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 49653,
+      "sixty-five-and-over": 27406,
+      "grand-total": 77059
+    },
+    {
+      "state": "Washington",
+      "congressional-district": "Congressional District 3",
+      "under-sixty-five": 50729,
+      "sixty-five-and-over": 27536,
+      "grand-total": 78265
+    },
+    {
+      "state": "Washington",
+      "congressional-district": "Congressional District 4",
+      "under-sixty-five": 34994,
+      "sixty-five-and-over": 22070,
+      "grand-total": 57065
+    },
+    {
+      "state": "Washington",
+      "congressional-district": "Congressional District 5",
+      "under-sixty-five": 46633,
+      "sixty-five-and-over": 27119,
+      "grand-total": 73752
+    },
+    {
+      "state": "Washington",
+      "congressional-district": "Congressional District 6",
+      "under-sixty-five": 56760,
+      "sixty-five-and-over": 31263,
+      "grand-total": 88023
+    },
+    {
+      "state": "Washington",
+      "congressional-district": "Congressional District 7",
+      "under-sixty-five": 24823,
+      "sixty-five-and-over": 16854,
+      "grand-total": 41677
+    },
+    {
+      "state": "Washington",
+      "congressional-district": "Congressional District 8",
+      "under-sixty-five": 39835,
+      "sixty-five-and-over": 20380,
+      "grand-total": 60215
+    },
+    {
+      "state": "Washington",
+      "congressional-district": "Congressional District 9",
+      "under-sixty-five": 54985,
+      "sixty-five-and-over": 24343,
+      "grand-total": 79328
+    },
+    {
+      "state": "West Virginia",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 35546,
+      "sixty-five-and-over": 25764,
+      "grand-total": 61310
+    },
+    {
+      "state": "West Virginia",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 39938,
+      "sixty-five-and-over": 25374,
+      "grand-total": 65312
+    },
+    {
+      "state": "West Virginia",
+      "congressional-district": "Congressional District 3",
+      "under-sixty-five": 30237,
+      "sixty-five-and-over": 22764,
+      "grand-total": 53001
+    },
+    {
+      "state": "Wisconsin",
+      "congressional-district": "Congressional District 1",
+      "under-sixty-five": 32606,
+      "sixty-five-and-over": 23841,
+      "grand-total": 56446
+    },
+    {
+      "state": "Wisconsin",
+      "congressional-district": "Congressional District 2",
+      "under-sixty-five": 30219,
+      "sixty-five-and-over": 21725,
+      "grand-total": 51944
+    },
+    {
+      "state": "Wisconsin",
+      "congressional-district": "Congressional District 3",
+      "under-sixty-five": 33843,
+      "sixty-five-and-over": 23482,
+      "grand-total": 57326
+    },
+    {
+      "state": "Wisconsin",
+      "congressional-district": "Congressional District 4",
+      "under-sixty-five": 22925,
+      "sixty-five-and-over": 13674,
+      "grand-total": 36599
+    },
+    {
+      "state": "Wisconsin",
+      "congressional-district": "Congressional District 5",
+      "under-sixty-five": 26542,
+      "sixty-five-and-over": 26001,
+      "grand-total": 52543
+    },
+    {
+      "state": "Wisconsin",
+      "congressional-district": "Congressional District 6",
+      "under-sixty-five": 35018,
+      "sixty-five-and-over": 24462,
+      "grand-total": 59480
+    },
+    {
+      "state": "Wisconsin",
+      "congressional-district": "Congressional District 7",
+      "under-sixty-five": 33496,
+      "sixty-five-and-over": 28229,
+      "grand-total": 61725
+    },
+    {
+      "state": "Wisconsin",
+      "congressional-district": "Congressional District 8",
+      "under-sixty-five": 32901,
+      "sixty-five-and-over": 27665,
+      "grand-total": 60567
+    },
+    {
+      "state": "Wyoming",
+      "congressional-district": "Congressional District (at Large)",
+      "under-sixty-five": 37490,
+      "sixty-five-and-over": 18422,
+      "grand-total": 55912
+    },
+    {
+      "state": "Puerto Rico",
+      "congressional-district": "Resident Commissioner District (at Large)",
+      "under-sixty-five": 56437,
+      "sixty-five-and-over": 53348,
+      "grand-total": 109785
+    }
+  ]
+}
