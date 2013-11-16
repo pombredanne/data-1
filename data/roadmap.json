@@ -21,6 +21,11 @@
             "Description": "Create a settings page for common settings of the application."
         },
         {
+            "Name": "Editing of File Meta Data",
+            "Date": "11/16/2013",
+            "Description": "Introduce form on file upload and in the manage screen to allow editing of each files meta data. With update of data.json file."
+        },        
+        {
             "Name": "Edit in Table View",
             "Date": "11/16/2013",
             "Description": "Allow the editing of JSON files in a table view."
