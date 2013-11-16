@@ -31,5 +31,21 @@
         "format": "json"
       }
     ]
+  },
+  {
+    "title": "product-private",
+    "description": "",
+    "keyword": "",
+    "modified": "",
+    "publisher": "",
+    "person": "",
+    "identifier": "https://raw.github.com/kinlane/data-ongithub/master/product-private.json",
+    "accessLevel": "public",
+    "distribution": [
+      {
+        "accessURL": "https://raw.github.com/kinlane/data-ongithub/master/product-private.json",
+        "format": "json"
+      }
+    ]
   }
 ]
