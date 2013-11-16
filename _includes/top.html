@@ -145,9 +145,11 @@
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>
     
     <script src='js/mustache.js' type='text/javascript'></script>
+    
     <script src="js/base64.js" type="text/javascript" charset="utf-8"></script>
     <script src="js/underscore-min.js" type="text/javascript" charset="utf-8"></script>
     <script src="js/oauth.js" type="text/javascript" charset="utf-8"></script>
+    
     <script src="js/github.js" type="text/javascript" charset="utf-8"></script>
     <script src="js/utilities.js" type="text/javascript" charset="utf-8"></script>   
           
@@ -183,11 +185,12 @@
       
         $UploadFileName = document.getElementById("uploadfilename").value;
         $UploadSaveName = $UploadFileName + ".json";
-        $UploadIdentifier = "https://raw.github.com/kinlane/data-ongithub/master/" + $UploadFileName + ".json";;
+        
+        $UploadIdentifier = "https://raw.github.com/ongithub/data/master/" + $UploadFileName + ".json";;
 
         $JSONOutput = document.getElementById("JSONView").value;
       
-        var repo = github.getRepo('kinlane', 'data-ongithub'); 
+        var repo = github.getRepo('ongithub', 'data'); 
         repo.write('master',$UploadSaveName, $JSONOutput, 'Saving file: ' + $UploadSaveName, function(err) {}); 
         
         var $Manifest = "";
