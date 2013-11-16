@@ -170,7 +170,80 @@
 
                 }                       
             }   
-         
+            
+    function saveFile()
+        {
+    
+        var github = new Github({
+            token: $oAuth_Token,
+            auth: "oauth"
+                });
+                
+        $UploadJSONName = "";
+      
+        $UploadFileName = document.getElementById("uploadfilename").value;
+        $UploadSaveName = $UploadFileName + ".json";
+        $UploadIdentifier = "https://raw.github.com/kinlane/data-ongithub/master/" + $UploadFileName + ".json";;
+
+        $JSONOutput = document.getElementById("JSONView").value;
+      
+        var repo = github.getRepo('kinlane', 'data-ongithub'); 
+        repo.write('master',$UploadSaveName, $JSONOutput, 'Saving file: ' + $UploadSaveName, function(err) {}); 
+        
+        var $Manifest = "";
+
+        // Getting manifest
+        repo.read('gh-pages','data.json',function(err, data){                                           
+            $Manifest = jQuery.parseJSON(data);
+            $Exists = 0;
+            $.each($Manifest, function(s, $EachManifest) {
+                if($EachManifest['identifier'] == $UploadIdentifier){
+                $Exists = 1;                                   
+                }   
+            });    
+
+       if($Exists==0)
+            {               
+            $AddData = {};
+            $AddData['title'] = $UploadFileName;
+            $AddData['description'] = '';
+            $AddData['keyword'] = '';
+            $AddData['modified'] = '';
+            $AddData['publisher'] = '';
+            $AddData['person'] = '';
+            $AddData['identifier'] = $UploadIdentifier;
+            $AddData['accessLevel'] = 'public';
+
+            $AddData['distribution'] = new Array();
+            
+            $AddDistribution = {};
+            $AddDistribution['accessURL'] = $UploadIdentifier;
+            $AddDistribution['format'] = 'json';            
+
+            $AddData['distribution'].push($AddDistribution);
+            $Manifest.push($AddData);    
+            }
+     
+       $$ManifestJSON = JSON.stringify($Manifest);
+       $$ManifestJSON = JSON.stringify(JSON.parse($$ManifestJSON),null,2);                             
+                        
+       repo.write('gh-pages','data.json', $$ManifestJSON, 'Saving data.json after update!', function(err) {
+            
+            if(err){
+                if(err['error']=='404'){
+                    $("#displayMe").append('<br /><center>Sorry, you do not have permission!</center>'); 
+                    document.getElementById("loading").style.display = 'none';
+                    }
+                }
+            else{
+
+                alert("done!");                                    
+                                                                                                                                    
+                }                             
+            });   
+        });         
+
+        }             
     </script>
     
     <script src="js/jszip.js"></script>
