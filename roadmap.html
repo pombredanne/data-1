@@ -18,7 +18,7 @@ overview: true
 <script type="text/javascript">
 function listRoadmap()
     {
-    $.getJSON('roadmap.json', function(data) {
+    $.getJSON('/data/roadmap.json', function(data) {
         toggle = 0;
          $.each(data['Roadmap'], function(key, val) {
             var template = $('#roadmapListingTemplate').html();

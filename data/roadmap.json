@@ -1,0 +1,19 @@
+{
+    "Roadmap": [
+        {
+            "Name": "Add XLS Upload",
+            "Date": "9/05/2013",
+            "Description": "Add the ability upload older spreadsheets in an XLS format."
+        },
+        {
+            "Name": "Save As XML, CSV, HTML formats at same time as JSON save. Maybe as setting?",
+            "Date": "9/08/2013",
+            "Description": "Save As XML, CSV, HTML formats at same time as JSON save. Maybe as setting?"
+        },
+        {
+            "Name": "Add Settings Page",
+            "Date": "9/08/2013",
+            "Description": "Create a settings page for common settings of the application."
+        }
+    ]
+}
