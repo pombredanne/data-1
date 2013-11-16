@@ -63,5 +63,21 @@
         "format": "json"
       }
     ]
+  },
+  {
+    "title": "Total_Performance_Scores",
+    "description": "",
+    "keyword": "",
+    "modified": "",
+    "publisher": "",
+    "person": "",
+    "identifier": "https://raw.github.com/ongithub/data/master/Total_Performance_Scores.json",
+    "accessLevel": "public",
+    "distribution": [
+      {
+        "accessURL": "https://raw.github.com/ongithub/data/master/Total_Performance_Scores.json",
+        "format": "json"
+      }
+    ]
   }
 ]
