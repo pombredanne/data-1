@@ -18,19 +18,21 @@ overview: true
 <script id="dataListingTemplate" type="text/template">       
     <tr>
         <td width="40%"><strong>{{title}}</strong></td>
-        <td id="listing-{{identifier}}" align="center">&nbsp;</td>         
+        <td id="listing-{{identifier}}" align="center">
+        </td>         
     </tr>                                                                                          
 </script>
 {% endraw %}
 
- <table id="dataListing" border="0" width="100%" align="left" cellpadding="5" cellspacing="5">
+ <table id="dataListing" border="0" width="100%" cellpadding="5" cellspacing="5">
     <tr>
         <td><strong>Title</strong></td>
         <td width="20%" align="center"><strong>Download</strong></td>       
     </tr>           
  </table>
-
+<br />
 <script type="text/javascript">
+
     function listData()
         {
         $.getJSON('data.json', function(data) {
@@ -63,10 +65,10 @@ overview: true
 </script>
 <!-- End List Code Simples--->    
 
-<br /><hr />
+<hr />
 <!-- 3scale -->
 <p align="center">
-<a href="http://bit.ly/13esk6Q" target="_blank" title="APIs From 3Scale">
-    <img src="https://s3.amazonaws.com/kinlane-productions/api-service-providers/3Scale/empowered-by-3scale.png" width="300" style="padding-bottom: 15px;" />
-</a>        
+    <a href="http://bit.ly/13esk6Q" target="_blank" title="APIs From 3Scale">
+        <img src="https://s3.amazonaws.com/kinlane-productions/api-service-providers/3Scale/empowered-by-3scale.png" width="300" style="padding-bottom: 15px;" />
+    </a>        
 </p>  

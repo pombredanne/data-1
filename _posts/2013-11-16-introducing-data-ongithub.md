@@ -21,5 +21,7 @@ image: https://s3.amazonaws.com/kinlane-productions/github/github-matrix.jpg
 
 <p>Using oAuth.io, Data OnGithub enables completely client-side authentication using Github oAuth, and if a user is a member of the repository, they are allowed to not just upload and convert common open data file formats, but also save them as JSON files to the master repository.  This approach creates a self-contained data conversion, management and storage platform that if you keep open source, is completely free to operate.  Think of it as a "pod" for your open data. </p>
 
+<p align="center"><img src="https://s3.amazonaws.com/kinlane-productions/data-on-github/pod-container.png" width="450" /></p>
+
 <p>If you have any comments, visit the blog, roadmap, then submit your questions via the Github Issue Management for the project.</p>
 
