@@ -1,0 +1,1284 @@
+{
+  "Sheet 1": [
+    {
+      "Acronym": "A&A",
+      "Definition": "Assessment and Accreditation"
+    },
+    {
+      "Acronym": "A&MM",
+      "Definition": "Acquisition and Materiél Management"
+    },
+    {
+      "Acronym": "A&MMS",
+      "Definition": "Acquisition and Materi&eactue;l Management Service"
+    },
+    {
+      "Acronym": "A/E",
+      "Definition": "Architect/Engineer"
+    },
+    {
+      "Acronym": "A/O",
+      "Definition": "Administrative Offices"
+    },
+    {
+      "Acronym": "A/OPC",
+      "Definition": "Agency/Organization Program Coordinator"
+    },
+    {
+      "Acronym": "A/R",
+      "Definition": "Accounts Receivable"
+    },
+    {
+      "Acronym": "AAA",
+      "Definition": "Authentication"
+    },
+    {
+      "Acronym": "ABC",
+      "Definition": "Activity Based Costing"
+    },
+    {
+      "Acronym": "AC",
+      "Definition": "Associate Chief of Staff"
+    },
+    {
+      "Acronym": "AC",
+      "Definition": "Acceleration Clause"
+    },
+    {
+      "Acronym": "AC",
+      "Definition": "Actual Cost"
+    },
+    {
+      "Acronym": "ACC",
+      "Definition": "Accounting Classification Code"
+    },
+    {
+      "Acronym": "ACO",
+      "Definition": "Administrative Contracting Officer"
+    },
+    {
+      "Acronym": "ACRB",
+      "Definition": "Architectural Change and Review Board"
+    },
+    {
+      "Acronym": "ACWP",
+      "Definition": "Actual Cost for Work Performed"
+    },
+    {
+      "Acronym": "AD",
+      "Definition": "Assistant Director"
+    },
+    {
+      "Acronym": "ADA",
+      "Definition": "Associate Deputy Administrator"
+    },
+    {
+      "Acronym": "ADAS",
+      "Definition": "Associate Deputy Assistant Secretary"
+    },
+    {
+      "Acronym": "AGC",
+      "Definition": "Associated General Contractors of America"
+    },
+    {
+      "Acronym": "AIA",
+      "Definition": "American Institute of Architects"
+    },
+    {
+      "Acronym": "AIC",
+      "Definition": "Architecture and Infrastructure Committee"
+    },
+    {
+      "Acronym": "AL",
+      "Definition": "Assisted Living"
+    },
+    {
+      "Acronym": "AL",
+      "Definition": "American Legion"
+    },
+    {
+      "Acronym": "ALA",
+      "Definition": "American Legion Auxiliary"
+    },
+    {
+      "Acronym": "ALBCC",
+      "Definition": "Account Level Budget Cost Center"
+    },
+    {
+      "Acronym": "ALC",
+      "Definition": "Agency Location Code"
+    },
+    {
+      "Acronym": "ALTA",
+      "Definition": "American Land Title Transfer"
+    },
+    {
+      "Acronym": "AO",
+      "Definition": "Authorizing Official"
+    },
+    {
+      "Acronym": "APOC",
+      "Definition": "Administrative Point of Contact"
+    },
+    {
+      "Acronym": "AR",
+      "Definition": "Architecture Requirements"
+    },
+    {
+      "Acronym": "ARB",
+      "Definition": "Architecture Review Board"
+    },
+    {
+      "Acronym": "ARB",
+      "Definition": "Accident Review Board"
+    },
+    {
+      "Acronym": "ARC",
+      "Definition": "American Red Cross"
+    },
+    {
+      "Acronym": "ARNP",
+      "Definition": "Advanced Registered Nurse Practitioner"
+    },
+    {
+      "Acronym": "ARO",
+      "Definition": "After Receipt of Order"
+    },
+    {
+      "Acronym": "ARO",
+      "Definition": "After Receipt of Order"
+    },
+    {
+      "Acronym": "ATP",
+      "Definition": "Acquisition Training Program"
+    },
+    {
+      "Acronym": "B&P",
+      "Definition": "Bid and Proposal"
+    },
+    {
+      "Acronym": "B/A",
+      "Definition": "Basic Agreement"
+    },
+    {
+      "Acronym": "B/A",
+      "Definition": "Basic Agreement"
+    },
+    {
+      "Acronym": "B/S",
+      "Definition": "Benefits/Services"
+    },
+    {
+      "Acronym": "BA",
+      "Definition": "Business Architecture"
+    },
+    {
+      "Acronym": "BAA",
+      "Definition": "Business Associate Agreement(s)"
+    },
+    {
+      "Acronym": "BCA",
+      "Definition": "Business Continuity Plan"
+    },
+    {
+      "Acronym": "BCA",
+      "Definition": "Board of Contract Appeals"
+    },
+    {
+      "Acronym": "BCAG",
+      "Definition": "Business Community Advisory Group"
+    },
+    {
+      "Acronym": "BCBS",
+      "Definition": "Blue Cross Blue Shield"
+    },
+    {
+      "Acronym": "BCS",
+      "Definition": "Business Case Study"
+    },
+    {
+      "Acronym": "BCWP",
+      "Definition": "Budgeted Cost for Work Performed"
+    },
+    {
+      "Acronym": "BCWS",
+      "Definition": "Budgeted Cost for Work Scheduled"
+    },
+    {
+      "Acronym": "BIRLS",
+      "Definition": "Beneficiary Identification Records Locator Subsystem"
+    },
+    {
+      "Acronym": "BNI",
+      "Definition": "Business Needs and Investment"
+    },
+    {
+      "Acronym": "BNIB",
+      "Definition": "Business Needs and Investment Board"
+    },
+    {
+      "Acronym": "BOA",
+      "Definition": "Basic Ordering Agreement"
+    },
+    {
+      "Acronym": "BOC",
+      "Definition": "Business Operations Committee"
+    },
+    {
+      "Acronym": "BOC",
+      "Definition": "Budget Object Code"
+    },
+    {
+      "Acronym": "BOP",
+      "Definition": "Bureau of Prisons"
+    },
+    {
+      "Acronym": "BPA",
+      "Definition": "Blanket Purchase Agreement"
+    },
+    {
+      "Acronym": "BQ",
+      "Definition": "Best Qualified"
+    },
+    {
+      "Acronym": "BRD",
+      "Definition": "Business Requirements Document"
+    },
+    {
+      "Acronym": "BRD",
+      "Definition": "Business Requirements Document"
+    },
+    {
+      "Acronym": "BREP",
+      "Definition": "Business Requirements Engineering Process"
+    },
+    {
+      "Acronym": "BRM",
+      "Definition": "Business Relationship Meeting"
+    },
+    {
+      "Acronym": "BRM",
+      "Definition": "Business Reference Model"
+    },
+    {
+      "Acronym": "BSAD",
+      "Definition": "Baseline System Architecture Document"
+    },
+    {
+      "Acronym": "C&A",
+      "Definition": "Certification and Authority"
+    },
+    {
+      "Acronym": "CAO",
+      "Definition": "Chief Administrative Officer"
+    },
+    {
+      "Acronym": "CAO",
+      "Definition": "Chief Acquisition Officer is the Assistant Secretary for Management"
+    },
+    {
+      "Acronym": "CAO",
+      "Definition": "Contract Administration Office"
+    },
+    {
+      "Acronym": "CBA",
+      "Definition": "Cost Benefit Analysis"
+    },
+    {
+      "Acronym": "CBC",
+      "Definition": "Community Based Outpatient Clinic"
+    },
+    {
+      "Acronym": "CBC",
+      "Definition": "Complete Blood Count"
+    },
+    {
+      "Acronym": "CBCMC",
+      "Definition": "Clinical Bar Code Multidisciplinary Committee"
+    },
+    {
+      "Acronym": "CBD",
+      "Definition": "Chief Benefits Director"
+    },
+    {
+      "Acronym": "CBHCO",
+      "Definition": "Community-Based Health Care Organization"
+    },
+    {
+      "Acronym": "CBI",
+      "Definition": "Compliance and Business Integrity"
+    },
+    {
+      "Acronym": "CBO",
+      "Definition": "Congressional Budget Office"
+    },
+    {
+      "Acronym": "CBO",
+      "Definition": "Chief Business Office"
+    },
+    {
+      "Acronym": "CC",
+      "Definition": "Ceiling Cost"
+    },
+    {
+      "Acronym": "CCA",
+      "Definition": "Consolidated Contracting Activity"
+    },
+    {
+      "Acronym": "CCB",
+      "Definition": "Change Control Board"
+    },
+    {
+      "Acronym": "CCC",
+      "Definition": "Cost Containment Center"
+    },
+    {
+      "Acronym": "CCD",
+      "Definition": "Centralized Contracting Division"
+    },
+    {
+      "Acronym": "CCR",
+      "Definition": "Central Contractor Register"
+    },
+    {
+      "Acronym": "CCS",
+      "Definition": "Care Coordination Services"
+    },
+    {
+      "Acronym": "CEA",
+      "Definition": "Chief Enterprise Architect"
+    },
+    {
+      "Acronym": "CEC",
+      "Definition": "Continuing Education Center"
+    },
+    {
+      "Acronym": "CEFU",
+      "Definition": "Continuing Education Field Unit"
+    },
+    {
+      "Acronym": "CEHIST",
+      "Definition": "Center for Evaluation of Healthcare Information Systems & Technology"
+    },
+    {
+      "Acronym": "CEIS",
+      "Definition": "Corporate Executive Information System"
+    },
+    {
+      "Acronym": "CEMP",
+      "Definition": "Comprehensive Emergency Management Program"
+    },
+    {
+      "Acronym": "CEN",
+      "Definition": "Committee European de Normalisation"
+    },
+    {
+      "Acronym": "CEO",
+      "Definition": "Chief Executive Officer"
+    },
+    {
+      "Acronym": "CEOSH",
+      "Definition": "Center for Engineering & Occupational Safety and Health"
+    },
+    {
+      "Acronym": "CFM",
+      "Definition": "Construction Facility Management"
+    },
+    {
+      "Acronym": "CFO",
+      "Definition": "Chief Financial Officer"
+    },
+    {
+      "Acronym": "CFOC",
+      "Definition": "Chief Financial Officers Council"
+    },
+    {
+      "Acronym": "CFP",
+      "Definition": "Clinical Financial Planner"
+    },
+    {
+      "Acronym": "CFR",
+      "Definition": "Code of Federal Regulations"
+    },
+    {
+      "Acronym": "CI",
+      "Definition": "Contract Item/Control Item"
+    },
+    {
+      "Acronym": "CICA",
+      "Definition": "Competition in Contracting Act"
+    },
+    {
+      "Acronym": "CIM",
+      "Definition": "Corporate Information Model"
+    },
+    {
+      "Acronym": "CIO",
+      "Definition": "Chief Information Officer"
+    },
+    {
+      "Acronym": "CIOFO",
+      "Definition": "Chief Information Office Field Office"
+    },
+    {
+      "Acronym": "CIP",
+      "Definition": "Capital Investment Proposal"
+    },
+    {
+      "Acronym": "CIP",
+      "Definition": "Capital Investment Process"
+    },
+    {
+      "Acronym": "CIPP/G",
+      "Definition": "Certified Information Privacy Professional/Government"
+    },
+    {
+      "Acronym": "CO",
+      "Definition": "Contracting Officer"
+    },
+    {
+      "Acronym": "COAS",
+      "Definition": "Clinical Observation Access Control"
+    },
+    {
+      "Acronym": "COB",
+      "Definition": "Close of Business"
+    },
+    {
+      "Acronym": "COBRA",
+      "Definition": "Common Object Request Broker Architecture"
+    },
+    {
+      "Acronym": "COE",
+      "Definition": "Certificate of Eligibility"
+    },
+    {
+      "Acronym": "COE",
+      "Definition": "Centers of Excellence"
+    },
+    {
+      "Acronym": "COHRS",
+      "Definition": "Central Office Human Resources Service"
+    },
+    {
+      "Acronym": "COI",
+      "Definition": "Conflict of Interest"
+    },
+    {
+      "Acronym": "COI",
+      "Definition": "Communities of Interest"
+    },
+    {
+      "Acronym": "COO",
+      "Definition": "Chief Operations Officer"
+    },
+    {
+      "Acronym": "COOP",
+      "Definition": "Continuity of Operations Plan"
+    },
+    {
+      "Acronym": "COS",
+      "Definition": "Chief of Staff"
+    },
+    {
+      "Acronym": "COSG",
+      "Definition": "Collaborative Opportunities Steering Group"
+    },
+    {
+      "Acronym": "COSVA",
+      "Definition": "Chief of Staff"
+    },
+    {
+      "Acronym": "COTR",
+      "Definition": "Contracting Officer's Technical Representative or Contracting Officer's Representative"
+    },
+    {
+      "Acronym": "CP",
+      "Definition": "Ceiling Price"
+    },
+    {
+      "Acronym": "CP",
+      "Definition": "Contingency Plan"
+    },
+    {
+      "Acronym": "CPI",
+      "Definition": "Cost Performance Index"
+    },
+    {
+      "Acronym": "CPIC",
+      "Definition": "Capital Planning and Investment Control"
+    },
+    {
+      "Acronym": "CPM",
+      "Definition": "Critical Path Method"
+    },
+    {
+      "Acronym": "CPM",
+      "Definition": "Continuous Passive Motion"
+    },
+    {
+      "Acronym": "CPO",
+      "Definition": "Chief of Purchasing Office"
+    },
+    {
+      "Acronym": "CPOE",
+      "Definition": "Computerized Physician Order Entry"
+    },
+    {
+      "Acronym": "CPP",
+      "Definition": "Consumer Preferences and Policy"
+    },
+    {
+      "Acronym": "CPR",
+      "Definition": "Cardio-Pulmonary Resuscitation"
+    },
+    {
+      "Acronym": "CPS",
+      "Definition": "Core Products and Services"
+    },
+    {
+      "Acronym": "CS",
+      "Definition": "Cost Sharing"
+    },
+    {
+      "Acronym": "CSA",
+      "Definition": "Common Services Architecture"
+    },
+    {
+      "Acronym": "CSBU",
+      "Definition": "Center for Small Business Utilization"
+    },
+    {
+      "Acronym": "CSCIS",
+      "Definition": "Computer Software Configuration Items"
+    },
+    {
+      "Acronym": "CSCS",
+      "Definition": "Computer Software Components"
+    },
+    {
+      "Acronym": "CSE",
+      "Definition": "Customer Service Environment"
+    },
+    {
+      "Acronym": "CSEMO",
+      "Definition": "Corporate Senior Executive Management Office"
+    },
+    {
+      "Acronym": "CSF",
+      "Definition": "Critical Success Factors"
+    },
+    {
+      "Acronym": "CSO",
+      "Definition": "Cyber Security Office"
+    },
+    {
+      "Acronym": "CSP",
+      "Definition": "Cyber Security Professional"
+    },
+    {
+      "Acronym": "CSUM",
+      "Definition": "Common Security User Manager"
+    },
+    {
+      "Acronym": "CT",
+      "Definition": "Commercial Technology"
+    },
+    {
+      "Acronym": "CTI",
+      "Definition": "Computer/Telephone Integration"
+    },
+    {
+      "Acronym": "CTI",
+      "Definition": "Category Type Item"
+    },
+    {
+      "Acronym": "CTI",
+      "Definition": "Critical Time Intervention"
+    },
+    {
+      "Acronym": "CTO",
+      "Definition": "Chief Technology Officer"
+    },
+    {
+      "Acronym": "CV",
+      "Definition": "Cost Variance"
+    },
+    {
+      "Acronym": "CVE",
+      "Definition": "Center for Veterans Enterprise"
+    },
+    {
+      "Acronym": "CY",
+      "Definition": "Calendar Year"
+    },
+    {
+      "Acronym": "D&F",
+      "Definition": "Determination and Finding"
+    },
+    {
+      "Acronym": "D&S Committee",
+      "Definition": "The VA Deparment and Suspension Committee"
+    },
+    {
+      "Acronym": "DBA",
+      "Definition": "Data Base Administrator"
+    },
+    {
+      "Acronym": "DBIA",
+      "Definition": "Database Integration Agreement"
+    },
+    {
+      "Acronym": "DBIC",
+      "Definition": "Data Base Integration Committee"
+    },
+    {
+      "Acronym": "DBM",
+      "Definition": "Disruptive Behavior Management"
+    },
+    {
+      "Acronym": "DBMS",
+      "Definition": "Data Base Management System"
+    },
+    {
+      "Acronym": "DCM",
+      "Definition": "Department Cost Manager"
+    },
+    {
+      "Acronym": "DCP",
+      "Definition": "Direct Connect Program"
+    },
+    {
+      "Acronym": "DME",
+      "Definition": "Development/Maintenance/Enhancement"
+    },
+    {
+      "Acronym": "DOBI",
+      "Definition": "Department of Defense Instruction"
+    },
+    {
+      "Acronym": "DoD",
+      "Definition": "Department of Defense"
+    },
+    {
+      "Acronym": "DOE",
+      "Definition": "Department of Energy"
+    },
+    {
+      "Acronym": "DOJ",
+      "Definition": "Department of Justice"
+    },
+    {
+      "Acronym": "DOL",
+      "Definition": "Department of Labor"
+    },
+    {
+      "Acronym": "DOT",
+      "Definition": "Department of Transportation"
+    },
+    {
+      "Acronym": "DS",
+      "Definition": "Data Standardization"
+    },
+    {
+      "Acronym": "DS",
+      "Definition": "Delivery Services"
+    },
+    {
+      "Acronym": "DSPE",
+      "Definition": "Deputy Senior Procurement Executive"
+    },
+    {
+      "Acronym": "DTP",
+      "Definition": "Data Transfer Program"
+    },
+    {
+      "Acronym": "DUSB",
+      "Definition": "Deputy Undersecretary for Benefits"
+    },
+    {
+      "Acronym": "DUSH",
+      "Definition": "Deputy Under Secretary for Health"
+    },
+    {
+      "Acronym": "DUSHOM",
+      "Definition": "Deputy Under Secretary for Health for Operations and Management (10N)"
+    },
+    {
+      "Acronym": "DUZ",
+      "Definition": "Designated User"
+    },
+    {
+      "Acronym": "E&IT",
+      "Definition": "Electronic & Information Technology"
+    },
+    {
+      "Acronym": "E/M",
+      "Definition": "evaluation and management"
+    },
+    {
+      "Acronym": "ECM",
+      "Definition": "Energy Conservation Measures"
+    },
+    {
+      "Acronym": "ECP",
+      "Definition": "Engineering Change Proposals"
+    },
+    {
+      "Acronym": "ECR",
+      "Definition": "Executive Conference Room"
+    },
+    {
+      "Acronym": "ECS",
+      "Definition": "Enterprise Class Storage"
+    },
+    {
+      "Acronym": "ECS",
+      "Definition": "Event Capture System"
+    },
+    {
+      "Acronym": "EISA",
+      "Definition": "Extended Industry Standard Architecture"
+    },
+    {
+      "Acronym": "EST",
+      "Definition": "Eastern Standard Time"
+    },
+    {
+      "Acronym": "ETC",
+      "Definition": "Estimate To Completion"
+    },
+    {
+      "Acronym": "F2F",
+      "Definition": "Face-to-Face Meeting"
+    },
+    {
+      "Acronym": "FAC-C",
+      "Definition": "Federal Acquisition Certification in Contracting"
+    },
+    {
+      "Acronym": "FACCT",
+      "Definition": "Foundation for Accountability"
+    },
+    {
+      "Acronym": "FACHE",
+      "Definition": "Fellow in American College of Healthcare Executives"
+    },
+    {
+      "Acronym": "FAC-P/PM",
+      "Definition": "Federal Acquisition Certification Program/Project Management"
+    },
+    {
+      "Acronym": "FAQ",
+      "Definition": "Frequently Asked Questions"
+    },
+    {
+      "Acronym": "FAR",
+      "Definition": "Federal Acquisition Regulations"
+    },
+    {
+      "Acronym": "FAS",
+      "Definition": "Finance and Accounting System"
+    },
+    {
+      "Acronym": "FP",
+      "Definition": "Fixed Price"
+    },
+    {
+      "Acronym": "FSS",
+      "Definition": "Federal Supply Schedule"
+    },
+    {
+      "Acronym": "FY",
+      "Definition": "Fiscal Year"
+    },
+    {
+      "Acronym": "G2B",
+      "Definition": "Government to Business"
+    },
+    {
+      "Acronym": "G2C",
+      "Definition": "Government to Consumer"
+    },
+    {
+      "Acronym": "G2G",
+      "Definition": "Government to Government"
+    },
+    {
+      "Acronym": "GAO",
+      "Definition": "Government Accountability Office"
+    },
+    {
+      "Acronym": "GOV",
+      "Definition": "Government Owned Vehicle"
+    },
+    {
+      "Acronym": "GP",
+      "Definition": "Government Property"
+    },
+    {
+      "Acronym": "GSF",
+      "Definition": "Gross Square Feet"
+    },
+    {
+      "Acronym": "HAC",
+      "Definition": "Health Administration Center"
+    },
+    {
+      "Acronym": "HCA",
+      "Definition": "Head of contracting Activity"
+    },
+    {
+      "Acronym": "HEA",
+      "Definition": "Health Enterprise Architecture"
+    },
+    {
+      "Acronym": "HR&A",
+      "Definition": "Human Resources and Administration"
+    },
+    {
+      "Acronym": "HRC",
+      "Definition": "Health Resource Center"
+    },
+    {
+      "Acronym": "HRIS",
+      "Definition": "Human Resources Information Service"
+    },
+    {
+      "Acronym": "HRM",
+      "Definition": "Human Resources Management"
+    },
+    {
+      "Acronym": "IFB",
+      "Definition": "Invitation for Bids"
+    },
+    {
+      "Acronym": "IM",
+      "Definition": "Information Management"
+    },
+    {
+      "Acronym": "IM/DQ",
+      "Definition": "Identity Management/Data Quality"
+    },
+    {
+      "Acronym": "IM/IT",
+      "Definition": "Information Management/Information Technology"
+    },
+    {
+      "Acronym": "IP",
+      "Definition": "Internet Protocol"
+    },
+    {
+      "Acronym": "ITAAC",
+      "Definition": "IT Acquisition Advisory Council"
+    },
+    {
+      "Acronym": "ITAC",
+      "Definition": "Information Technology Advisory Committee"
+    },
+    {
+      "Acronym": "ITAM",
+      "Definition": "IT Asset Management"
+    },
+    {
+      "Acronym": "ITARP",
+      "Definition": "IT Activity Resource Proposal"
+    },
+    {
+      "Acronym": "ITARS",
+      "Definition": "IT Acquisition Request System"
+    },
+    {
+      "Acronym": "ITBAT",
+      "Definition": "IT Budget Analysis Team"
+    },
+    {
+      "Acronym": "ITC",
+      "Definition": "Information Technology Center"
+    },
+    {
+      "Acronym": "ITC",
+      "Definition": "Information Technology Conference"
+    },
+    {
+      "Acronym": "ITEAM",
+      "Definition": "Information Technology Enterprise Architecture Management"
+    },
+    {
+      "Acronym": "ITIL",
+      "Definition": "Information Technology Infrastructure Library"
+    },
+    {
+      "Acronym": "I-TIPS",
+      "Definition": "Information Technology Investment Portfolio System"
+    },
+    {
+      "Acronym": "ITLO",
+      "Definition": "Information Technology Logistics Office"
+    },
+    {
+      "Acronym": "ITMP",
+      "Definition": "Information Technology Management Program"
+    },
+    {
+      "Acronym": "ITMRA",
+      "Definition": "Information Technology Management Reform Act"
+    },
+    {
+      "Acronym": "ITOC",
+      "Definition": "Information Technology and Oversight Compliance"
+    },
+    {
+      "Acronym": "ITOC",
+      "Definition": "Information Technology Oversight & Compliance"
+    },
+    {
+      "Acronym": "KSA",
+      "Definition": "Knowledge"
+    },
+    {
+      "Acronym": "KSAO",
+      "Definition": "Knowledge"
+    },
+    {
+      "Acronym": "LCC",
+      "Definition": "Life Cycle Costs"
+    },
+    {
+      "Acronym": "LEAF",
+      "Definition": "Logistics"
+    },
+    {
+      "Acronym": "LOB",
+      "Definition": "Line of Business"
+    },
+    {
+      "Acronym": "MF",
+      "Definition": "Medical Facilities"
+    },
+    {
+      "Acronym": "MTF",
+      "Definition": "Medical Treatment Facility/Facilities"
+    },
+    {
+      "Acronym": "MTF",
+      "Definition": "(DoD) Military Treatment Facility"
+    },
+    {
+      "Acronym": "NAC",
+      "Definition": "National Acquisition Center"
+    },
+    {
+      "Acronym": "NC",
+      "Definition": "National Cemetery"
+    },
+    {
+      "Acronym": "NCA",
+      "Definition": "National Cemetery Administration"
+    },
+    {
+      "Acronym": "NCAO",
+      "Definition": "National Cemetery Area Office"
+    },
+    {
+      "Acronym": "ND",
+      "Definition": "Network Director"
+    },
+    {
+      "Acronym": "NVC",
+      "Definition": "National Veterans Conference"
+    },
+    {
+      "Acronym": "O&M",
+      "Definition": "Operations and Maintenance"
+    },
+    {
+      "Acronym": "O&M",
+      "Definition": "Operation and Maintenance"
+    },
+    {
+      "Acronym": "OA&L",
+      "Definition": "Office of Acquisition and Logistics"
+    },
+    {
+      "Acronym": "OALC",
+      "Definition": "Office of Acquisition"
+    },
+    {
+      "Acronym": "OCLA",
+      "Definition": "Office of Congressional Legislative Affairs"
+    },
+    {
+      "Acronym": "OF",
+      "Definition": "Office of Facilities"
+    },
+    {
+      "Acronym": "OGC",
+      "Definition": "Office of the General Counsel"
+    },
+    {
+      "Acronym": "OHRM",
+      "Definition": "Office of Human Resources Management"
+    },
+    {
+      "Acronym": "OI&T",
+      "Definition": "Office of Information and Technology"
+    },
+    {
+      "Acronym": "ORD",
+      "Definition": "Office of Research and Development"
+    },
+    {
+      "Acronym": "OSDBU",
+      "Definition": "Office of Small and Disadvantaged Business Utilization"
+    },
+    {
+      "Acronym": "PATS",
+      "Definition": "Planning"
+    },
+    {
+      "Acronym": "PCO",
+      "Definition": "Procuring Contracting Officer"
+    },
+    {
+      "Acronym": "PDM",
+      "Definition": "Program (Procurement) Decision Maker"
+    },
+    {
+      "Acronym": "PM",
+      "Definition": "Project Manager"
+    },
+    {
+      "Acronym": "PM",
+      "Definition": "Program Manager"
+    },
+    {
+      "Acronym": "PM PAR",
+      "Definition": "Program Management Policy"
+    },
+    {
+      "Acronym": "PO",
+      "Definition": "Purchasing Order"
+    },
+    {
+      "Acronym": "POCs",
+      "Definition": "Points of Contact"
+    },
+    {
+      "Acronym": "POS",
+      "Definition": "Point of Sale"
+    },
+    {
+      "Acronym": "POS",
+      "Definition": "Period of Service"
+    },
+    {
+      "Acronym": "PPE",
+      "Definition": "Property"
+    },
+    {
+      "Acronym": "PR",
+      "Definition": "Purchase Requests"
+    },
+    {
+      "Acronym": "PTAC",
+      "Definition": "Procurement Technical Assistance Centers"
+    },
+    {
+      "Acronym": "RO",
+      "Definition": "Regional Office"
+    },
+    {
+      "Acronym": "RO&IC",
+      "Definition": "Regional Office and Insurance Center"
+    },
+    {
+      "Acronym": "SAC",
+      "Definition": "Strategic Acquisition Center"
+    },
+    {
+      "Acronym": "SAM",
+      "Definition": "System for Award Management"
+    },
+    {
+      "Acronym": "SAN",
+      "Definition": "Storage Area Network"
+    },
+    {
+      "Acronym": "SB/SDB",
+      "Definition": "Small Business/Small Disadvantaged Business"
+    },
+    {
+      "Acronym": "SB/SDB",
+      "Definition": "Small Business/Small Disadvantaged Business"
+    },
+    {
+      "Acronym": "SBA",
+      "Definition": "Small Business Administration"
+    },
+    {
+      "Acronym": "SBL",
+      "Definition": "Small Business Liaison"
+    },
+    {
+      "Acronym": "SCORE",
+      "Definition": "Service Corps of Retired Executives"
+    },
+    {
+      "Acronym": "SDC",
+      "Definition": "System Development Center"
+    },
+    {
+      "Acronym": "SDD",
+      "Definition": "Software Design and Development"
+    },
+    {
+      "Acronym": "SDE",
+      "Definition": "Service Delivery and Engineering"
+    },
+    {
+      "Acronym": "SDVOSB",
+      "Definition": "Service Disabled Veteran Owned Small Business"
+    },
+    {
+      "Acronym": "SE&I",
+      "Definition": "Software Engineering & Integration"
+    },
+    {
+      "Acronym": "SEDR",
+      "Definition": "Systems Engineering and Design Review"
+    },
+    {
+      "Acronym": "SEES",
+      "Definition": "Survey Evaluation Exam System"
+    },
+    {
+      "Acronym": "SEI",
+      "Definition": "Software Engineering and Integration"
+    },
+    {
+      "Acronym": "SEPG",
+      "Definition": "Software Engineering Process Group"
+    },
+    {
+      "Acronym": "SPE",
+      "Definition": "Senior Procurement Executive who is also Deputy Assistant Secretary for Acquisition and Material Management. SPE is responsible for the management direction of the VA acquisition system. The SPE may further delegate authority to the DSPE."
+    },
+    {
+      "Acronym": "SQA",
+      "Definition": "Safety Quality Assurance"
+    },
+    {
+      "Acronym": "SQA",
+      "Definition": "Software Quality Assurance"
+    },
+    {
+      "Acronym": "SR",
+      "Definition": "Systems Redesign"
+    },
+    {
+      "Acronym": "SSM",
+      "Definition": "Software Service Manager"
+    },
+    {
+      "Acronym": "STD",
+      "Definition": "Standard"
+    },
+    {
+      "Acronym": "STP",
+      "Definition": "Software Test Plan"
+    },
+    {
+      "Acronym": "STR",
+      "Definition": "Software Test Report"
+    },
+    {
+      "Acronym": "T&C",
+      "Definition": "Terms and Conditions"
+    },
+    {
+      "Acronym": "TA",
+      "Definition": "Technology Assessment"
+    },
+    {
+      "Acronym": "TAC",
+      "Definition": "Technology Assessment Committee"
+    },
+    {
+      "Acronym": "TAC",
+      "Definition": "Technology Acquisition Center"
+    },
+    {
+      "Acronym": "TP",
+      "Definition": "Technical Proposal"
+    },
+    {
+      "Acronym": "TQM",
+      "Definition": "Total Quality Management"
+    },
+    {
+      "Acronym": "U.S.C.",
+      "Definition": "United States Code"
+    },
+    {
+      "Acronym": "UI",
+      "Definition": "User Interface"
+    },
+    {
+      "Acronym": "VA",
+      "Definition": "Department of Veterans Affairs (never use DVA)"
+    },
+    {
+      "Acronym": "VAAR",
+      "Definition": "Department of Veterans Affairs Acquisition Regulation"
+    },
+    {
+      "Acronym": "VACO",
+      "Definition": "VA Central Office"
+    },
+    {
+      "Acronym": "VAGFE",
+      "Definition": "VA-owned Government Furnished Equipment"
+    },
+    {
+      "Acronym": "VAMC",
+      "Definition": "VA Medical Center"
+    },
+    {
+      "Acronym": "VAO",
+      "Definition": "Virtual Acquisition Office"
+    },
+    {
+      "Acronym": "VBA",
+      "Definition": "Veterans Benefit Administration"
+    },
+    {
+      "Acronym": "VBOP",
+      "Definition": "Veterans Business Outreach Centers"
+    },
+    {
+      "Acronym": "VC",
+      "Definition": "Veterans Center"
+    },
+    {
+      "Acronym": "VHA",
+      "Definition": "Veterans Health Administration"
+    },
+    {
+      "Acronym": "VIP",
+      "Definition": "Veteran Information Pages"
+    },
+    {
+      "Acronym": "VISN",
+      "Definition": "Veterans Integrated Service Network"
+    },
+    {
+      "Acronym": "VOSB",
+      "Definition": "Veteran Owned Small Business"
+    },
+    {
+      "Acronym": "WBC",
+      "Definition": "Women Business Center"
+    }
+  ]
+}
