@@ -15,19 +15,5 @@
         "format": "json"
       }
     ]
-  },
-  {
-    "title": "acronyms",
-    "description": "",
-    "keyword": "",
-    "modified": "",
-    "publisher": "",
-    "person": "",
-    "identifier": "undefined.json",
-    "accessLevel": "public",
-    "distribution": {
-      "accessURL": "undefined.json",
-      "format": "json"
-    }
-  }
+  } 
 ]
