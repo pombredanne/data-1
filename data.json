@@ -47,5 +47,21 @@
         "format": "json"
       }
     ]
+  },
+  {
+    "title": "congressional-veteran-population-111th",
+    "description": "",
+    "keyword": "",
+    "modified": "",
+    "publisher": "",
+    "person": "",
+    "identifier": "https://raw.github.com/kinlane/data-ongithub/master/congressional-veteran-population-111th.json",
+    "accessLevel": "public",
+    "distribution": [
+      {
+        "accessURL": "https://raw.github.com/kinlane/data-ongithub/master/congressional-veteran-population-111th.json",
+        "format": "json"
+      }
+    ]
   }
 ]
