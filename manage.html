@@ -1,0 +1,89 @@
+---
+layout: default
+title: About Data Ongithub
+overview: true
+---  
+  
+<ul class="toolbar">
+    <li>{"<a href="data.json" title="JSON" target="_blank">data.json</a>"}</li>
+</ul>  
+<h2>Data</h2>
+<p>This is a listing of the datasets currently available in this repository.</p>
+
+<!-- Begin List Code Samples--->
+{% raw  %}
+<script id="dataAccessTemplate" type="text/template">       
+    <a href="{{accessURL}}" target="_blank"><strong>{{format}}</strong></a>                                                                                             
+</script>
+<script id="dataListingTemplate" type="text/template">       
+    <tr>
+        <td width="40%"><strong>{{title}}</strong></td>
+        <td id="listing-{{identifier}}" align="center">&nbsp;</td>         
+    </tr>                                                                                          
+</script>
+{% endraw %}
+
+<div style="">
+     <table id="dataListing" border="0" width="100%" align="left" cellpadding="5" cellspacing="5">
+        <tr>
+            <td><strong>Title</strong></td>
+            <td width="20%" align="center"><strong>Download</strong></td>       
+        </tr>           
+     </table>
+</div> 
+
+<script type="text/javascript">
+    function listData()
+        {
+        $.getJSON('data.json', function(data) {
+             $.each(data, function(key, val) {
+                
+                id = val['identifier'];
+                
+                replaceid = id.split("/").join('&#x2F;');
+                
+                rowid = id.replace(":",'');
+                rowid = rowid.split("/").join('');
+                rowid = rowid.split(".").join('');
+                
+                var template = $('#dataListingTemplate').html();                                  
+                var html = Mustache.to_html(template, val);
+                html = html.split(replaceid).join(rowid);
+                $('#dataListing').append(html); 
+
+                $.each(val['distribution'], function(key2, val2) {   
+                    
+                    var template2 = $('#dataAccessTemplate').html();
+                    var html2 = Mustache.to_html(template2, val2);                    
+                    $('#listing-'+rowid).append(html2); 
+                    
+                    });                      
+                });
+            });
+        } 
+    listData();
+</script>
+<!-- End List Code Simples--->    
+<hr />
+<!-- 3scale -->
+<p align="center">
+<a href="http://bit.ly/13esk6Q" target="_blank" title="APIs From 3Scale">
+    <img src="https://s3.amazonaws.com/kinlane-productions/api-service-providers/3Scale/empowered-by-3scale.png" width="300" style="padding-bottom: 15px;" />
+</a>        
+</p>  
+<hr />
+
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'publicprivatesector'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>

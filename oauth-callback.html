@@ -1,0 +1,19 @@
+---
+layout: default
+title: oAuth
+overview: true
+---  
+
+<script type="text/javascript"> 
+
+    OAuth.initialize('5lkfooXWsRKWKHx6yYnSv9IU52E');
+    OAuth.callback('github', function(err, result) {
+        
+        $oAuth_Token = result.access_token;
+        
+        redirectURL = "http://data.ongithub.com/upload-xlsx.html?oAuth_Token=" + $oAuth_Token;
+        
+        location.href = redirectURL;
+
+        });
+</script>  

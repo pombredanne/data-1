@@ -1,0 +1,160 @@
+---
+layout: default
+title: Upload XLSX
+overview: true
+---  
+
+<input type="hidden" name="oAuth_Token" id="oAuth_Token" value="" />
+<input type="hidden" name="uploadfilename" id="uploadfilename" value="" />
+
+<table cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+        <td width="47%" style="font-size: 18px; font-weight: bold;"><h2>Upload Excel File (XLSX)</h2></td>
+        <td id="FileName" style="font-size: 18px; font-weight: bold;" align="center"></td>
+        <td id="SaveButton" width="20%" style="font-size: 16px;" align="center"><a href="oauth.html"><strong>Login to Save</strong></a></td>
+    </tr>
+</table>
+
+<table cellpadding="5" cellspacing="5" width="100%">
+    <tr>
+        <td align="center" width="50%">
+            <div id="upload">
+                Upload Zone<br />
+                <input type="file" onchange="readfile(this.files[0])" style="margin-top: 10px; border:0px;"></input>
+            </div>
+        </td>
+        <td align="center" width="50%">
+            <div id="drop">Drag & Drop Zone</div>   
+        </td>
+    </tr>
+</table>
+<hr />
+<table cellpadding="5" cellspacing="5" width="100%">
+    <tr>
+        <td align="left">
+            <strong>JSON</strong>
+            <textarea id="JSONView" style="height: 550px; width:100%; overflow: auto; border: 1px solid #000;"></textarea>
+        </td>
+    </tr>
+</table>                    
+
+<script>
+
+    function to_json(workbook) {
+        var result = {};
+        workbook.SheetNames.forEach(function(sheetName) {
+            var roa = XLSX.utils.sheet_to_row_object_array(workbook.Sheets[sheetName]);
+            if(roa.length > 0){
+                result[sheetName] = roa;
+            }
+        });
+        return result;
+    }
+    
+    function to_csv(workbook) {
+        var result = [];
+        workbook.SheetNames.forEach(function(sheetName) {
+            var csv = XLSX.utils.sheet_to_csv(workbook.Sheets[sheetName]);
+            if(csv.length > 0){
+                result.push(csv);
+            }
+        });
+        return result.join("\n");
+    }
+    
+    function process_wb(wb) {
+        
+        var output = "";
+
+       //$CSVOutput = to_csv(wb);                              
+       //var $CSVViewer = document.getElementById("CSVView");
+       //$CSVViewer.innerHTML = $CSVOutput;
+       
+       $JSONOutput = JSON.stringify(to_json(wb), 2, 2);
+       var $JSONView = document.getElementById("JSONView");
+       $JSONView.innerHTML = $JSONOutput;
+    }    
+    
+    function readfile(f) {
+        var reader = new FileReader();
+        var name = f.name;
+        
+        document.getElementById("FileName").innerHTML = name.replace(".xlsx","");
+        document.getElementById("uploadfilename").value = name.replace(".xlsx","");
+        
+        reader.onload = function(e) {
+            var data = e.target.result;
+            
+            //var wb = XLSX.read(data, {type: 'binary'});
+            var arr = String.fromCharCode.apply(null, new Uint8Array(data));
+            var wb = XLSX.read(btoa(arr), {type: 'base64'});
+            process_wb(wb);
+            
+        };
+        //reader.readAsBinaryString(f);
+        reader.readAsArrayBuffer(f);
+    }
+    
+    var drop = document.getElementById('drop');
+    function handleDrop(e) {
+        e.stopPropagation();
+        e.preventDefault();
+        var files = e.dataTransfer.files;
+        var i,f;
+        for (i = 0, f = files[i]; i != files.length; ++i) {
+            var reader = new FileReader();
+            var name = f.name;
+            
+            document.getElementById("FileName").innerHTML = name.replace(".xlsx","");
+            document.getElementById("uploadfilename").value = name.replace(".xlsx","");
+            
+            reader.onload = function(e) {
+                var data = e.target.result;
+                
+                //var wb = XLSX.read(data, {type: 'binary'});
+                var arr = String.fromCharCode.apply(null, new Uint8Array(data));
+                var wb = XLSX.read(btoa(arr), {type: 'base64'});
+                process_wb(wb);
+                
+            };
+            //reader.readAsBinaryString(f);
+            reader.readAsArrayBuffer(f);
+        }
+    }
+    
+    function handleDragover(e) {
+        e.stopPropagation();
+        e.preventDefault();
+        e.dataTransfer.dropEffect = 'copy';
+    }
+    
+    if(drop.addEventListener) {
+        drop.addEventListener('dragenter', handleDragover, false);
+        drop.addEventListener('dragover', handleDragover, false);
+        drop.addEventListener('drop', handleDrop, false);
+    }
+</script>
+
+<hr />
+<!-- 3scale -->
+<p align="center">
+<a href="http://bit.ly/13esk6Q" target="_blank" title="APIs From 3Scale">
+    <img src="https://s3.amazonaws.com/kinlane-productions/api-service-providers/3Scale/empowered-by-3scale.png" width="300" style="padding-bottom: 15px;" />
+</a>        
+</p>  
+<hr />
+
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'publicprivatesector'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
