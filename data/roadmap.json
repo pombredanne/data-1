@@ -1,19 +1,45 @@
 {
     "Roadmap": [
         {
+            "Name": "Add CSV Upload",
+            "Date": "11/16/2013",
+            "Description": "Add the ability upload CSV files."
+        },
+        {
             "Name": "Add XLS Upload",
-            "Date": "9/05/2013",
+            "Date": "11/16/2013",
             "Description": "Add the ability upload older spreadsheets in an XLS format."
         },
         {
-            "Name": "Save As XML, CSV, HTML formats at same time as JSON save. Maybe as setting?",
-            "Date": "9/08/2013",
+            "Name": "Save As XML, CSV, HTML",
+            "Date": "11/16/2013",
             "Description": "Save As XML, CSV, HTML formats at same time as JSON save. Maybe as setting?"
         },
         {
             "Name": "Add Settings Page",
-            "Date": "9/08/2013",
+            "Date": "11/16/2013",
             "Description": "Create a settings page for common settings of the application."
-        }
+        },
+        {
+            "Name": "Edit in Table View",
+            "Date": "11/16/2013",
+            "Description": "Allow the editing of JSON files in a table view."
+        },
+        {
+            "Name": "Edit with Google Spreadsheet",
+            "Date": "11/16/2013",
+            "Description": "Allow the creation and editing of JSON files with a Google Spreadsheet, with two way sync."
+        },
+        {
+            "Name": "Generate API with api.ongithub.com",
+            "Date": "11/16/2013",
+            "Description": "Allow the generation of a Swagger definition from data file that creates repo in the api.github.com domain."
+        } 
+,
+        {
+            "Name": "Create version of data.ongithub that runs on Amazon S3",
+            "Date": "11/16/2013",
+            "Description": "Recreate all the functionality that we have here, but run on AWS S3. This increases the scalability of the platform."
+        }                
     ]
 }
